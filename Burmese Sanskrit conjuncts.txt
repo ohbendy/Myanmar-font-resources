@@ -331,9 +331,9 @@ nsm	န္သ္မ
 nsy	န္သျ
 nsr	န္သြ
 nsv	န္သွ
-nhy	န္ဟျ
-nhr	န္ဟြ
-nhv	န္ဟွ
+nhy	နျှ
+nhr	နြှ
+nhv	နွှ
 pkṣ	ပ္က္ၑ
 pty	ပ္တျ
 ptr	ပ္တြ
@@ -448,10 +448,10 @@ rṣy	ရ်္ၑျ
 rṣv	ရ်္ၑွ
 rsr	ရ်္သြ
 rsv	ရ်္သွ
-rhy	ရ်္ဟျ
-rhr	ရ်္ဟြ
+rhy	ရျှ / ရ်္ဟျ
+rhr	ရြှ / ရ်္ဟြ
 rhl	ရ်္ဟ္လ
-rhv	ရ်္ဟွ
+rhv	ရွှ / ရ်္ဟွ
 lky	လ္ကျ
 lgv	လ္ဂွ
 lpy	လ္ပျ
@@ -459,7 +459,7 @@ lby	လ္ဗျ
 lbhy	လ္ဘျ
 lly	လ္လျ
 lvy	လျွ
-lhy	လ္ဟျ
+lhy	လျှ
 vny	ဝ္နျ
 ścy	ၐ္စျ
 śny	ၐ္နျ
@@ -686,7 +686,7 @@ nr	နြ
 nv	နွ
 nṣ	န္ၑ
 ns	န္သ
-nh	န္ဟ
+nh	နှ
 pk	ပ္က
 pkh	ပ္ခ
 pc	ပ္စ
@@ -733,7 +733,7 @@ my	မျ
 mr	မြ
 ml	မ္လ
 mv	မွ
-mh	မ္ဟ
+mh	မှ
 yy	ယျ
 yv	ယွ
 rk	ရ်္က
@@ -777,7 +777,7 @@ ly	လျ
 ll	လ္လ
 lv	လွ
 lś	လ္ၐ
-lh	လ္ဟ
+lh	လှ
 vṇ	ဝ္ဏ
 vn	ဝ္န
 vy	ဝျ
