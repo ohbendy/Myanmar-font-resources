@@ -717,7 +717,7 @@ bl	ဗ္လ
 bv	ဗွ
 bhṇ	ဘ္ဏ
 bhn	ဘ္န
-bhm	ဘမ
+bhm	ဘ္မ
 bhy	ဘျ
 bhr	ဘြ
 bhl	ဘ္လ
