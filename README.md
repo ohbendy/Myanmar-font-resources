@@ -1,7 +1,7 @@
 # Myanmar font resources
  Bits and bobs for making and checking Myanmar fonts
 
-## Burmese Sanskrit conjuncts
+## [Burmese Sanskrit conjuncts](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Burmese%20Sanskrit%20conjuncts.txt)
  This contains a list of conjuncts compiled from several sources:
  - Ulrich Stiehl's conjunct list: http://www.sanskritweb.net/sansdocs/mathe.pdf
  - Ulrich Stiehl's Technical Manual: http://www.sanskritweb.net/itrans/itmanual2003.pdf
