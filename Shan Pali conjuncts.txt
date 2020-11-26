@@ -1,6 +1,6 @@
 Pali conjuncts
 
-Standard within-varga conjuncts (from Okell)
+Standard within-varga conjuncts (transliterated from Okell)
 kk	ၵ္ၵ
 kkh	ၵ္ၶ
 gg	ၷ္ၷ*
@@ -48,7 +48,7 @@ mm	မ္မ*
 ll	လ္လ
 ss	သ္သ = ဿ
 
-Others (from Burmese Pali books)
+Others (transliterated from Burmese Pali books)
 
 kkr	ၵ္ၵြ
 kr 	ၵြ
