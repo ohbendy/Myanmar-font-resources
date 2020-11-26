@@ -1,0 +1,98 @@
+Pali conjuncts
+
+Standard within-varga conjuncts (from Okell)
+kk	ၵ္ၵ
+kkh	ၵ္ၶ
+gg	ၷ္ၷ*
+ggh	ၷ္ꧠ
+ṅk	င်္ၵ
+ṅkh	င်္ၶ
+ṅg	င်္ၷ
+ṅgh	င်္ꧠ
+cc	ၸ္ၸ*
+cch	ၸ္ꧡ*
+jj	ꩡ္ꩡ
+jjh	ꩡ္ꧢ
+ñc	ၺ္ၸ
+ñch	ၺ္ꧡ
+ñj	ၺ္ꩡ
+ñjh	ၺ္ꧢ
+ññ	ၺ္ၺ ?
+ṭṭ	ꩦ္ꩦ
+ṭṭh	ꩦ္ꩧ
+ḑḑ	ꩨ္ꩨ
+ḑḑh	ꩨ္ꩩ
+ṇṭ	ꧣ္ꩦ
+ṇṭh	ꧣ္ꩧ
+ṇḑ	ꧣ္ꩨ
+ṇḑh	ꧣ္ꩩ
+ṇṇ	ꧣ္ꧣ*
+tt	တ္တ*
+tth	တ္ထ
+dd	ၻ္ၻ
+ddh	ၻ္ꩪ*
+nt	ၼ္တ
+nth	ၼ္ထ
+nd	ၼ္ၻ
+ndh	ၼ္ꩪ
+nn	ၼ္ၼ*
+pp	ပ္ပ
+pph	ပ္ၽ
+bb	ၿ္ၿ*
+bbh	ၿ္ꧤ
+mp	မ္ပ*
+mph	မ္ၽ
+mb	မ္ၿ*
+mbh	မ္ꧤ
+mm	မ္မ*
+ll	လ္လ
+ss	သ္သ = ဿ
+
+Others (from Burmese Pali books)
+
+kkr	ၵ္ၵြ
+kr 	ၵြ
+kl 	ၵ္လ
+kv	ၵွ
+khy	ၶျ
+khv	ၶွ
+gy	ၷျ
+gr	ၷြ
+cy	ၸျ
+cv	ၸွ
+ñh	ၺှ
+ṇh	ꧣှ
+tthy	တ္ထျ
+ty 	တျ
+tr	တြ
+tl	တ္လ
+tv	တွ
+dr	ၻြ
+dv	ၻွ
+dhv	ꩪွ
+nkh	ၼ္ၶ
+ntw	ၼ္တွ
+ndr	ၼ္ၻြ
+nh	ၼှ
+by	ၿျ
+br	ၿြ
+mh	မှ
+yy	ယျ
+yh	ယှ
+ly	လျ
+lh	လှ
+vy 	ဝျ
+vh	ဝှ
+st 	သ္တ
+sn	သ္ၼ
+sm	သ္မ
+sv	သွ
+hm	ႁ္မ
+hv	ႁွ
+ḷh	ꩮှ
+
+Additionally attested:
+phr	ၽြ
+bhr	ꧤြ
+dth	ၻ္ထ
+(the last seems likely to be a misprint)
