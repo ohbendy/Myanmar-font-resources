@@ -1,5 +1,8 @@
 # Myanmar font resources
  Bits and bobs for making and checking Myanmar fonts
+ 
+## [Myanmar alphabets](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Myanmar%20alphabets.md)
+This lists all the consonants of each alphabet currently enabled by Unicode.
 
 ## [Burmese Sanskrit conjuncts](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Burmese%20Sanskrit%20conjuncts.txt)
  This contains a list of conjuncts compiled from several sources:
