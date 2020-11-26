@@ -1,0 +1,86 @@
+Pali conjuncts
+
+Standard within-varga conjuncts (from Okell)
+kk	က္က
+kkh	က္ခ
+gg	ဂ္ခ
+ggh	ဂ္ဃ
+ṅk	င်္က
+ṅkh	င်္ခ
+ṅg	င်္ဂ
+ṅgh	င်္ဃ
+cc	စ္စ
+cch	စ္ဆ
+jj	ဇ္ဇ
+jjh	ဇ္ဈ
+ñc	ဉ္စ
+ñch	ဉ္ဆ
+ñj	ဉ္ဇ
+ñjh	ဉ္ဈ
+ññ	ဉ္ဉ = ည
+ṭṭ	ဋ္ဋ
+ṭṭh	ဋ္ဌ
+ḑḑ	ဍ္ဍ
+ḑḑh	ဍ္ဎ
+ṇṭ	ဏ္ဋ
+ṇṭh	ဏ္ဌ
+ṇḑ	ဏ္ဍ
+ṇḑh	ဏ္ဎ
+ṇṇ	ဏ္ဏ
+tt	တ္တ
+tth	တ္ထ
+dd	ဒ္ဒ
+ddh	ဒ္ဓ
+nt	န္တ
+nth	န္ထ
+nd	န္ဒ
+ndh	န္ဓ
+nn	န္န
+pp	ပ္ပ
+pph	ပ္ဖ
+bb	ဗ္ဗ
+bbh	ဗ္ဘ
+mp	မ္ပ
+mph	မ္ဖ
+mb	မ္ဗ
+mbh	မ္ဘ
+mm	မ္မ
+ll	လ္လ
+ss	သ္သ = ဿ
+
+Others (from Burmese Pali books)
+
+kkr	က္ကြ
+kv	ကွ
+khy	ချ
+khv	ခွ
+gr	ဂြ
+gy	ဂျ
+cy	စျ
+cv	စွ
+ñh	ဉှ
+ṇh	ဏှ
+tthy	တ္ထျ
+tr	တြ
+tl	တ္လ
+tv	တွ
+dr	ဒြ
+dv	ဒွ
+dhv	ဓွ
+nkh	န္ခ
+ntw	န္တွ
+ndr	န္ဒြ
+nh	နှ
+by	ဗျ
+br	ဗြ
+mh	မှ
+yy	ယျ
+yh	ယှ
+ly	လျ
+lh	လှ
+vh	ဝှ
+sn	သ္န
+sm	သ္မ
+sv	သွ
+hm	ဟ္မ
+ḷh	ဠှ
