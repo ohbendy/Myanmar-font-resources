@@ -17,3 +17,8 @@
 #### Following advice from Christian Lammerts:
 - ñ is transcribed with small nya ဉ and not big nnya ည
 - when Ya, Ra, Va and Ha appear non-initially, Burmese medial forms are used rather than vertically-stacked virama sequences. This could theoretically lead to ambiguity since -kry- and -kyr- would have the same visual appearance.
+
+## [Burmese Pali conjuncts](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Burmese%20Pali%20conjuncts.txt)
+Compiled from:
+- Okell's Burmese: An introduction to the script p384
+- Several of my books in Burmese Pali (may contain Sanskrit words?)
