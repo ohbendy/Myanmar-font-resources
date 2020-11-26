@@ -23,3 +23,9 @@ Compiled from:
 - Okell's Burmese: An introduction to the script p384
 - Several of my books in Burmese Pali (may contain Sanskrit words?)
 - [List of Pali conjuncts from Tiro Typeworks](https://docs.google.com/document/d/10jaDPY0EcYenspj-iPDqZsCSta1eN46L4QLPXqeYMQs/edit#) (thanks John)
+
+## [Shan Pali conjuncts](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Shan%20Pali%20conjuncts.txt)
+This is a direct conversion to Pali letters from the Burmese Pali conjuncts list. Standard Shan orthography doesn't stack conjuncts, instead using the asat character to cancel inherent vowels. But some older orthographies stack consonants; those for which attestations have been found are marked with an asterisk. Note most fonts do not support subjoined Shan Pali letters so rendering may be questionable.
+Compiled from:
+- Transliterating list of Burmese Pali conjuncts above
+- Last three at the bottom of the list are found in one of my Shan writing primers.
