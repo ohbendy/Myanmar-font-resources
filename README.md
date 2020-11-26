@@ -22,3 +22,4 @@
 Compiled from:
 - Okell's Burmese: An introduction to the script p384
 - Several of my books in Burmese Pali (may contain Sanskrit words?)
+- [List of Pali conjuncts from Tiro Typeworks](https://docs.google.com/document/d/10jaDPY0EcYenspj-iPDqZsCSta1eN46L4QLPXqeYMQs/edit#) (thanks John)
