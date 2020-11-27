@@ -18,6 +18,7 @@
 | Shwe Palaung | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ | သ | ဟ | | အ | | ꩾ |  | | | ႎှ | | ႎ | | | | ꩿ | | ဈ  | | | | Shwe Palaung |
 | Pale (Ruching) Palaung | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ |  | ဟ | | အ | | | | | | | | | | | | | | | စှ | ဝှ | | Pale (Ruching) Palaung |
 | Rumai Palaung | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ |  | ဟ | | အ | | | | | | ႎ | | | | | | | | | | | |  Rumai Palaung |
+| Moken | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ |  | ဟ | | အ | | | | | | | | | | | | | | | | | | Moken |
 
 Note: each language orders the alphabet differently. Here they follow the Burmese system, with extensions at the end.
 
