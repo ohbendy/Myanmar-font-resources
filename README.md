@@ -1,6 +1,9 @@
 # Myanmar font resources
  Bits and bobs for making and checking Myanmar fonts
  
+## [Languages](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Languages.md)
+This lists the languages that can be written in the Burmese script, with their OpenType and ISO 639 language tags and an estimation of the number of speakers.
+ 
 ## [Myanmar alphabets](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Myanmar%20alphabets.md)
 This lists all the consonants of each alphabet currently enabled by Unicode. Mainly based on [UTN11v4](https://www.unicode.org/notes/tn11/UTN11_4.pdf) but with additions from my own research.
 
