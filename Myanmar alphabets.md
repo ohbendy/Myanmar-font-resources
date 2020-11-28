@@ -32,6 +32,6 @@ Only a handful of the languages of Burma use independent vowels.
 |               | a | aa | i | ii | u | uu | r | rr | l | ll | e | ai | o | au |               |
 |--------------:|:-:|:--:|:-:|:--:|:-:|:--:|---|----|---|----|:-:|:--:|:-:|:--:|---------------|
 |       Burmese | အ | အာ | ဣ |  ဤ | ဥ |  ဦ |   |    |   |    | ဧ |    | ဩ |  ဪ | Burmese       |
-|   Old Burmese | ဢ | ဢာ | ဣ |  ဤ | ဥ |  ဦ |   |    |   |    | ဧ |  ဨ | ဩ |  ဪ | Old Burmese   |
-| Pali-Sanskrit | အ | အာ | ဣ |  ဤ | ဥ |  ဦ | ၒ | ၓ  | ၔ | ၕ  | ဧ |  အဲ | ဩ |  ဪ | Pali-Sanskrit |
+|   Old Burmese | ဢ | ဢာ | ဣ |  ဤ | ဥ |  ဦ |   |    |   |    | ဧ |  ဨ | ဩ |  ဪ | Old Burmese   |
+| Pali‑Sanskrit | အ | အာ | ဣ |  ဤ | ဥ |  ဦ | ၒ | ၓ  | ၔ | ၕ  | ဧ |  အဲ | ဩ |  ဪ | Pali‑Sanskrit |
 |           Mon | အ | အာ | ဣ | ဣဳ | ဥ |  ဥု |   |    |   |    |   |  ဨ | ဩ |  ဪ | Mon           |
