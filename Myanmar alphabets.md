@@ -1,3 +1,5 @@
+## Consonants
+
 | | ka | kha | ga | gha | ṅa | ca | cha | ja | jha | ña | ṭa | ṭha | ḍa | ḍha | ṇa | ta | tha | da | dha | na | pa | pha | ba | bha | ma | ya | ra | la | wa | sa | ha | ḷa | a | ghwa | cha | bba | bbe | pwa |  fa |  ywa | va | tha | śa | ṣa | sha | xa | za | ? | ? | ahh | |
 |------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|:---:|:---:|:---:|:---:|:--|
 | Burmese | က | ခ | ဂ | ဃ | င | စ | ဆ | ဇ | ဈ | ဉ/ည | ဋ | ဌ | ဍ | ဎ | ဏ | တ | ထ | ဒ | ဓ | န | ပ | ဖ | ဗ | ဘ | မ | ယ | ရ | လ | ဝ | သ | ဟ | ဠ | အ | | | | | | | | | | | | | | | | | | Burmese|
@@ -23,3 +25,13 @@
 Note: each language orders the alphabet differently. Here they follow the Burmese system, with extensions at the end.
 
 \* indicates the preferred form is dotted.
+
+## Independent vowels
+Only a handful of the languages of Burma use independent vowels.
+
+|               | a | aa | i | ii | u | uu | r | rr | l | ll | e | ai | o | au |               |
+|--------------:|:-:|:--:|:-:|:--:|:-:|:--:|---|----|---|----|:-:|:--:|:-:|:--:|---------------|
+|       Burmese | အ | အာ | ဣ |  ဤ | ဥ |  ဦ |   |    |   |    | ဧ |    | ဩ |  ဪ | Burmese       |
+|   Old Burmese | ဢ | ဢာ | ဣ |  ဤ | ဥ |  ဦ |   |    |   |    | ဧ |  ဨ | ဩ |  ဪ | Old Burmese   |
+| Pali-Sanskrit | အ | အာ | ဣ |  ဤ | ဥ |  ဦ | ၒ | ၓ  | ၔ | ၕ  | ဧ |  အဲ | ဩ |  ဪ | Pali-Sanskrit |
+|           Mon | အ | အာ | ဣ | ဣဳ | ဥ |  ဥု |   |    |   |    |   |  ဨ | ဩ |  ဪ | Mon           |
