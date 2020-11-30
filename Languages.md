@@ -15,7 +15,7 @@
 |Moken||||mwt||8k|
 |Mon (in Burma)|MON_|||mnw||851k|
 |Mon (in Thailand)||||mnw||
-|Old Burmese||||obr|no longer spoken|
+|Old Burmese||||obr||no longer spoken|
 |Pa'O Karen|BLK_|||blk||560k|
 |Pale [Ruching] Palaung|PLG_|||pce||All Palaung 560k|
 |Pali|PAL_|pi|pli|pli||no longer spoken|
