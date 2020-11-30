@@ -2,7 +2,9 @@
 
 With __language__ tags for OpenType, ISO 639, BCP 47 and concatenated Harfbuzz language + script tags for HTML.
 
-Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym2`.
+Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym2`. 
+
+Number of speakers is very approximate in some cases, and should not be taken as an estimate of number of script users as literacy rates vary. Likewise languages no longer spoken do not imply there are no script users, since Pali, Sanskrit and Old Burmese are used for religious and academic purposes.
 
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
