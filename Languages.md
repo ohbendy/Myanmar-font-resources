@@ -1,34 +1,35 @@
 ## Languages supported by Burmese script
 
+With language tags for OpenType, ISO 639, BCP 47 and Harfbuzz.
 
-| Language | OpenType language tag | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP47 | № of speakers |
-|-----------:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Burmese|BRM_|my|bur/mya|mya||33 million
-|Arakanese [Rakhine]|ARK_|||mhv, rmz, rki||1m|
-|Chin, Asho Chin|QIN_|||bgr, cnh, cnw, czt, sez, tcp, csy, ctd, flm, pck, tcz, zom, cmr, dao, hlt, cka, cnk, mrh, cbl, cnb, csh||50k|
-|Eastern Pwo Karen, monastic orthography|KJP_||||kjp-Mymr-x-phlouyu|1m|
-|Eastern Pwo Karen, Buddhist orthography|KJP_||||kjp-Mymr-x-thiyon||
-|Geba Karen||||kvq||40k|
-|Intha||||int||100-200k|
-|Karen|KRN_|||kar||
-|Kayah [Li] [Western Kayah]|KYU_|||kyu|1|90k|
-|Moken||||mwt||8k|
-|Mon (in Burma)|MON_|||mnw||851k|
-|Mon (in Thailand)||||mnw||
-|Old Burmese||||obr||no longer spoken|
-|Pa'O Karen|BLK_|||blk||560k|
-|Pale [Ruching] Palaung|PLG_|||pce||All Palaung 560k|
-|Pali|PAL_|pi|pli|pli||no longer spoken|
-|Rumai Palaung|PLG_|||rbb||All Palaung 560k|
-|S'gaw Karen|KSW_|||ksw||1.5m|
-|Sanskrit|SAN_|sa|san|san||no longer spoken|
-|Shan|SHN_||shn|shn||3.3m|
-|Shan Ni [Tai Laing]||||tjl||100k|
-|Shwe Palaung|PLG_|||pll||All Palaung 560k|
-|Tai Aiton|AIO_|||||1500|
-|Tai Khamti [Khamti Shan]|KHT_|||kht||13k|
-|Tai Khamyang|||| ksu, nrr || 50 |
-|Tai Phake|PHK_|||phk||2000|
-|Tai Turung||||try|| no longer spoken|
-|Tavoyan||||tvn||440k|
-|Western Pwo Karen|PWO_|||pwo||210k|
+| Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP47 | Harfbuzz | 
+|-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Burmese|33 million|BRM_|my|bur/mya|mya||my-x-hbscmym2|
+|Arakanese [Rakhine]|1m|ARK_|||mhv, rmz, rki|rki-x-hbscmym2|
+|Chin, Asho Chin|50k|QIN_|||bgr, cnh, cnw, czt, sez, tcp, csy, ctd, flm, pck, tcz, zom, cmr, dao, hlt, cka, cnk, mrh, cbl, cnb, csh||
+|Eastern Pwo Karen, monastic orthography|1m|KJP_||||kjp-Mymr-x-phlouyu|
+|Eastern Pwo Karen, Buddhist orthography||KJP_||||kjp-Mymr-x-thiyon||
+|Geba Karen|40k||||kvq||
+|Intha|100-200k||||int||
+|Karen||KRN_|||kar||
+|Kayah [Li] [Western Kayah]|90k|KYU_|||kyu|1|
+|Moken|8k||||mwt||
+|Mon (in Burma)|851k|MON_|||mnw||
+|Mon (in Thailand)|||||mnw||
+|Old Burmese|no longer spoken||||obr||
+|Pa'O Karen|560k|BLK_|||blk||
+|Pale [Ruching] Palaung|All Palaung 560k|PLG_|||pce||
+|Pali|no longer spoken|PAL_|pi|pli|pli||
+|Rumai Palaung|All Palaung 560k|PLG_|||rbb||
+|S'gaw Karen|1.5m|KSW_|||ksw||
+|Sanskrit|no longer spoken|SAN_|sa|san|san||
+|Shan|3.3m|SHN_||shn|shn||
+|Shan Ni [Tai Laing]|100k||||tjl||
+|Shwe Palaung|All Palaung 560k|PLG_|||pll||
+|Tai Aiton|1500|AIO_|||||
+|Tai Khamti [Khamti Shan]|13k|KHT_|||kht||
+|Tai Khamyang| 50 |||| ksu, nrr ||
+|Tai Phake|2000|PHK_|||phk||
+|Tai Turung|no longer spoken||||try|| 
+|Tavoyan|440k||||tvn||
+|Western Pwo Karen|210k|PWO_|||pwo||
