@@ -12,7 +12,7 @@ With language tags for OpenType, ISO 639, BCP 47 and Harfbuzz.
 |Geba Karen|40k||||kvq||
 |Intha|100-200k||||int||
 |Karen||KRN_|||kar||
-|Kayah [Li] [Western Kayah]|90k|KYU_|||kyu|1|
+|Kayah [Li] [Western Kayah]|190k|KYU_|||kyu||
 |Moken|8k||||mwt||
 |Mon (in Burma)|851k|MON_|||mnw||
 |Mon (in Thailand)|||||mnw||
