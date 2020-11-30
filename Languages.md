@@ -1,6 +1,6 @@
 ## Languages supported by Burmese script
 
-With language tags for OpenType, ISO 639, BCP 47 and Harfbuzz.
+With language tags for OpenType, ISO 639, BCP 47 and concatenated Harfbuzz language + script tags for HTML.
 
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
