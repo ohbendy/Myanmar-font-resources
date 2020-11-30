@@ -13,7 +13,8 @@
 |Karen|KRN_|||kar||
 |Kayah [Li] [Western Kayah]|KYU_|||kyu|190k|
 |Moken||||mwt|8k|
-|Mon|MON_|||mnw|851k|
+|Mon (in Burma)|MON_|||mnw|851k|
+|Mon (in Thailand)||||mnw||
 |Old Burmese||||obr|no longer spoken|
 |Pa'O Karen|BLK_|||blk|560k|
 |Pale [Ruching] Palaung|PLG_|||pce|All Palaung 560k|
