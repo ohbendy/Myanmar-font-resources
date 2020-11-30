@@ -5,7 +5,7 @@ With language tags for OpenType, ISO 639, BCP 47 and Harfbuzz.
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Burmese|33 million|BRM_|my|bur/mya|mya||my-x-hbscmym2|
-|Arakanese [Rakhine]|1m|ARK_|||mhv, rmz, rki|rki-x-hbscmym2|
+|Arakanese [Rakhine]|1m|ARK_|||mhv, rmz, rki||rki-x-hbscmym2|
 |Chin, Asho Chin|50k|QIN_|||bgr, cnh, cnw, czt, sez, tcp, csy, ctd, flm, pck, tcz, zom, cmr, dao, hlt, cka, cnk, mrh, cbl, cnb, csh||
 |Eastern Pwo Karen, monastic orthography|1m|KJP_||||kjp-Mymr-x-phlouyu|
 |Eastern Pwo Karen, Buddhist orthography||KJP_||||kjp-Mymr-x-thiyon||
