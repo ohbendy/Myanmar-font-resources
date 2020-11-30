@@ -1,6 +1,6 @@
 ## Languages supported by Burmese script
 
-With language tags for OpenType, ISO 639, BCP 47 and concatenated Harfbuzz language + script tags for HTML.
+With __language__ tags for OpenType, ISO 639, BCP 47 and concatenated Harfbuzz language + script tags for HTML.
 
 Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym2`.
 
