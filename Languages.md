@@ -2,7 +2,7 @@
 
 
 | Language | OpenType language tag | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP47 | № of speakers |
-|-----------:|:---:|:---:|:---:|:---:|:---:|
+|-----------:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Burmese|BRM_|my|bur/mya|mya||33 million
 |Arakanese [Rakhine]|ARK_|||mhv, rmz, rki||1m|
 |Chin, Asho Chin|QIN_|||bgr, cnh, cnw, czt, sez, tcp, csy, ctd, flm, pck, tcz, zom, cmr, dao, hlt, cka, cnk, mrh, cbl, cnb, csh||50k|
