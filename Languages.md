@@ -11,6 +11,7 @@ Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym
 |Chin, Asho Chin|50k|QIN_|||bgr, cnh, cnw, czt, sez, tcp, csy, ctd, flm, pck, tcz, zom, cmr, dao, hlt, cka, cnk, mrh, cbl, cnb, csh||
 |Eastern Pwo Karen, monastic orthography|1m|KJP_||||kjp-Mymr-x-phlouyu|
 |Eastern Pwo Karen, Buddhist orthography||KJP_||||kjp-Mymr-x-thiyon||
+|Eastern Pwo Karen, Christian orthography||KJP_||||kjp-Mymr-x-chekhi||
 |Geba Karen|40k||||kvq||
 |Intha|100-200k||||int||
 |Karen||KRN_|||kar||
