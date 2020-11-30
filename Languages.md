@@ -1,4 +1,4 @@
-## Languages supported by Burmese script
+## Languages supported by Myanmar script
 
 With __language__ tags for OpenType, ISO 639, BCP 47 and concatenated Harfbuzz language + script tags for HTML.
 
