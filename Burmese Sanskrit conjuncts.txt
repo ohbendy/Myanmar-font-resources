@@ -518,7 +518,7 @@ sty	သ္တျ
 str	သ္တြ
 stv	သ္တွ
 sts	သ္တ္သ
-sthn	သ္ထန
+sthn	သ္ထ္န
 sthy	သ္ထျ
 sny	သ္နျ
 spr	သ္ပြ
