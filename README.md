@@ -40,3 +40,6 @@ This is a direct conversion to Pali letters from the Burmese Pali conjuncts list
 Compiled from:
 - Transliterating list of Burmese Pali conjuncts above
 - Last three at the bottom of the list are found in one of my Shan writing primers.
+
+## [Localised forms](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Localised%20forms.md)
+This notes the glyphs variations needed for some of the languages of Burma.
