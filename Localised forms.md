@@ -8,7 +8,7 @@ The Karen, Kayah and Chin languages have preferred forms of some characters, not
 |S'gaw Karen|Triangular|Sloped (vertical also found)|Left|
 |Western Pwo Karen|Triangular||Left (right also found)|
 |Eastern Pwo Karen|Triangular (round also found)|Vertical|Right|
-|Pa'O Karen|Triangular (round also found)|Sloped (vertical also found)||
+|Pa'O Karen|Triangular (round also found)|Sloped (vertical also found)|Right|
 |Geba Karen|Triangular|||
 |Kayah|Triangular|Sloped||
 |Asho Chin|Triangular|Sloped|Left|
