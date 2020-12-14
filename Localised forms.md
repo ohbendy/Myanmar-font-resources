@@ -6,7 +6,7 @@ The Karen, Kayah and Chin languages have preferred forms of some characters, not
 |---:|:---:|:---:|:---:|
 |Standard Burmese| Round (triangular in some older texts) | Vertical | Right side (left in some older texts)|
 |S'gaw Karen|Triangular|Sloped (vertical also found)|Left|
-|Western Pwo Karen|||Left (right also found)|
+|Western Pwo Karen|Triangular||Left (right also found)|
 |Eastern Pwo Karen|Triangular (round also found)||
 |Pa'O Karen|Triangular (round also found)|Sloped (vertical also found)||
 |Geba Karen|Triangular|||
