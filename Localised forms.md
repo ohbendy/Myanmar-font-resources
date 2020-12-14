@@ -11,6 +11,6 @@ Note this analysis is based on the handful of resources I've managed to pull tog
 |Western Pwo Karen|Triangular||Left (right also found)|
 |Eastern Pwo Karen|Triangular (round also found)|Vertical|Right|
 |Pa'O Karen|Triangular (round also found)|Sloped (vertical also found)|Right|
-|Geba Karen|Triangular|||
+|Geba Karen|Triangular|Vertical||
 |Kayah|Triangular|Sloped||
 |Asho Chin|Triangular|Sloped|Left|
