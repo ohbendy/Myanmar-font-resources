@@ -2,7 +2,7 @@
 
 With __language__ tags for OpenType, ISO 639, BCP 47 and concatenated Harfbuzz language + script tags for HTML. 
 
-For making and testing fonts, we need to know the OpenType language tags as well as the ISO 639 language tags; to achieve variant forms for Mon, for example, a font's OpenType lookups need to be registered under '__MON__', but the HTML language needs to be set as '__mnw__'.
+For making and testing fonts, we need to know the OpenType language tags as well as the ISO 639 language tags; to achieve variant forms for Mon, for example, a font's OpenType lookups need to be registered under '__MON__ ', but the HTML language needs to be set as '__mnw__'.
 
 Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym2`. 
 
