@@ -104,7 +104,6 @@ p48 Further vowel sequences include:
 - 1030 101D 103A ◌ူဝ်
 - 1031 1083 ေႃ
 - 103A ◌်
-◌
 
 p48 has -ai vowel uni1032 ◌ဲ annotated as uni1086, which is ◌ႆ Shan final -y.
 
@@ -113,6 +112,54 @@ p48 Khamti digits are attested but not yet encoded.
 p49 uses uni1032 for -ai vowel, but p48 suggests uni1086, unclear which to use.
 
 ---
+
+**Aiton & Phake**
+
+p51 uniAA6C Khamti letter Sa ꩬ is missing from the consonant inventory.
+
+p51 There seems to be a font issue with the subjoined consonants.
+
+p51 In diphthongs we also find:
+
+- 103D 102F ◌ွု as a ligature
+- 102F 1036 ◌ုံ
+
+The following are also used:
+
+- 103A ◌်
+- AA70 ꩰ reduplication mark (and combinations with 102E, 1036, 103A, 109D/1086/1032), though implementation is unclear.
+
+---
+
+**Tai Laing** (Endonym is Shan-Ni)
+◌
+p53 uniA9EC ꧬ appears twice in the consonant inventory.
+
+p53 The following should be included:
+
+- 103D ◌ွ (medial wa used as vowel)
+- 1062 ၢ
+- 1035 ဵ
+- 1062 1086 ၢႆ 
+- 103D 1086 ◌ွႆ
+
+p53 Numeral 9 is a 180° rotation of numeral 8, this sideways version seems to be outdated.
+
+---
+
+**Pale Palaung**
+
+p58 Sequence 102D 102F 101D 1038 is represented as 102D 102F 101D **103A** 1038
+
+---
+
+**Rumai Palaung**
+
+p60 Tonemark annotated as uni1089 is in fact uni1087.
+
+---
+
+**Moken**
 
 p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
