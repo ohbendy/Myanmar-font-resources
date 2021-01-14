@@ -47,6 +47,27 @@ p34 What font mechanism is suggested to allow post-base forms of -u and -uu? ZWJ
 
 ---
 
+**Eastern Pwo Karen**
+
+p36 Not clear why medial Ya and subjoined Ya are both listed. The subjoined version doesn't appear in my resources.
+
+p36 in vowels, uni1033 is annotated as 105C. 1033 is correct.
+
+p37 uni106E ၮ is equally possible as uni100F ဏ; it's not clear to me why 106E was encoded separately, it's just a stylistic difference and both styles are found in Standard Burmese and in Karen.
+
+---
+
+**Pa'O Karen**
+
+p39 Medial Ha uni103E ◌ှ is also used.
+
+p39 Dotbelow ◌့ is mis-annotated as 0137, it should be 1037.
+
+p39 Tonemark uni108F ◌ႏ can optionally take the alternate style made of three dots stacked vertically.
+
+---
+
+
 
 p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
