@@ -16,7 +16,7 @@
 | Tai Khamti | က︀* | ၵ︀*/ၷ︀* | ꩠ︀* | ဂ︀* | င︀* | ꩡ︀* | ꩢ︀*/ꧡ︀* | ꩣ︀* | ꩤ︀*/ꧢ︀* | ꩥ︀*/ၺ︀* | ꩦ︀* | ꩧ︀ | ꩨ︀ | ꩩ︀ | ꧣ︀* | တ︀* | ထ︀* | ၻ | ꩪ︀ | ꩫ︀* | ပ︀* | ၸ︀* | ၿ | ၹ | မ︀* | ယ︀* | ꩺ︀*/ꩳ*/ရ︀* | လ︀* | ဝ︀* | ꩬ︀* | ꩭ︀* | ꩮ | ဢ︀* | | | | | | ꩯ︀* | | | (ႀ︀*) | | | | ꩱ︀ | ꩲ︀ | | | | Tai Khamti |
 | Tai Aiton | က︀* | ၵ︀* | | | င︀* | ꩡ︀* | ꩬ︀* | | | ၺ︀* | | | | | | တ︀* | ထ︀* | | | ꩫ︀* | ပ︀* | ၸ︀* | | | မ︀* | ယ︀* | ꩺ︀* | လ︀* | ဝ︀* |  | ꩭ︀* | | ဢ︀* | | | | | | | | | | | | | | | | | | Tai Aiton |
 | Tai Phake | က︀* | ၵ︀* | | | င︀* | ꩡ︀* | ꩬ︀* | | | ၺ︀* | | | | | | တ︀* | ထ︀* | | | ꩫ︀* | ပ︀* | ၸ︀* | | | မ︀* | ယ︀* | ꩺ︀* | လ︀* | ဝ︀* |  | ꩭ︀* | | ဢ︀* | | | | | | | | | | | | | | | | | | Tai Phake |
-| Tai Laing (Shan Ni) | က | ၷ (ၵ)| ꧩ | ꧪ | င | ၸ | ꩬ | ꧫ | ꧬ | ꧧ | ꩦ | ꩧ | ꧭ | ꧮ | ꧯ | တ | ထ | ꧻ | ꧼ | ꩫ | ပ | ꧤ | ꧽ | ꧾ | မ | ယ | ꩺ | လ | ဝ | ꧬ | ၯ | ꧺ | ဢ | | | | | | ꧨ | | | | ၐ | ၑ | | | | | | | Tai Laing (Shan Ni) |
+| Tai Laing (Shan Ni) | က | ၷ† | ꧩ | ꧪ | င | ၸ | ꩬ | ꧫ | ꧬ | ꧧ | ꩦ | ꩧ | ꧭ | ꧮ | ꧯ | တ | ထ | ꧻ | ꧼ | ꩫ | ပ | ꧤ | ꧽ | ꧾ | မ | ယ | ꩺ | လ | ဝ | ꧬ | ၯ | ꧺ | ဢ | | | | | | ꧨ | | | | ၐ | ၑ | | | | | | | Tai Laing (Shan Ni) |
 | Shwe Palaung | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ | သ | ဟ | | အ | | ꩾ |  | | | ႎှ | | ႎ | | | | ꩿ | | ဈ  | | | | Shwe Palaung |
 | Pale (Ruching) Palaung | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ |  | ဟ | | အ | | | | | | | | | | | | | | | စှ | ဝှ | | Pale (Ruching) Palaung |
 | Rumai Palaung | က | ခ | ဂ | | င | စ | ဆ | ဇ | | ည | | | | | | တ | ထ | ဒ | | န | ပ | ဖ |  | ဘ | မ | ယ | ရ | လ | ဝ |  | ဟ | | အ | | | | | | ႎ | | | | | | | | | | | |  Rumai Palaung |
@@ -25,6 +25,7 @@
 Note: each language orders the alphabet differently. Here they follow the Burmese system, with extensions at the end.
 
 \* indicates the preferred form is dotted.
+\† UTN11 shows ၵ uni1075 instead of ၷ 1077, but Carmen confirmed loop should be present.
 
 ## Independent vowels
 Only a handful of the languages of Burma use independent vowels.
