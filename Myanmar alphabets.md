@@ -25,7 +25,7 @@
 Note: each language orders the alphabet differently. Here they follow the Burmese system, with extensions at the end.
 
 \* indicates the preferred form is dotted.
-\† UTN11 shows ၵ uni1075 instead of ၷ 1077, but Carmen confirmed loop should be present.
+† UTN11 shows ၵ uni1075 instead of ၷ 1077, but Carmen confirmed loop should be present.
 
 ## Independent vowels
 Only a handful of the languages of Burma use independent vowels.
