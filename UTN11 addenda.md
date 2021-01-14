@@ -1,8 +1,8 @@
-****Version 4 (13/12/2012)****
+## Version 4 (13/12/2012) ##
 
 ---
 
-****Version 5 (02/07/2020)****
+## Version 5 (02/07/2020) ##
 
 ---
 
@@ -33,7 +33,7 @@ p31 Some sequences should be added to dependent vowels:
 - 1031 1032 ေဲ
 - 1031 102C 1032 ေ◌ာဲ
 - 102D 102F 1032 ◌ိုဲ
-◌
+
 
 p31 Sequence of tallAa uni102B ◌ါ followed by -ai vowel uni1032 ◌ဲ behaves the same as tallAa followed by anusvara uni1036 ◌ံ, i.e. the mark sits on the consonant, not the tallAA.
 
@@ -67,7 +67,54 @@ p39 Tonemark uni108F ◌ႏ can optionally take the alternate style made of thre
 
 ---
 
+**Kayah**
 
+p40 Medial Ha is preferably sloped.
+
+---
+
+**Asho Chin**
+
+p42 Dotbelow uni1037 ◌့ preferably sits to the left of other below-base marks.
+
+---
+
+**Shan**
+
+p43 lists uni109F ႟ as a vowel, but it is a punctuation sign.
+
+---
+
+**Khamti Shan**
+
+p48 Further vowel sequences include:
+
+Vowel sequences:
+
+- 1032/1086 1062  ဲၢ
+- 101D 103A ◌ဝ်
+- 1062 101D 103A ◌ၢဝ်
+- 102D 101D 103A ◌ိဝ်
+- 103B 1083 ◌ျႃ
+- 1085 101D 103A ◌ႅဝ်
+- 1031 1030 ေူ
+- 103D ◌ွ (note this is a vowel in Khamti, not a medial)
+- 103D 1083 ◌ွႃ
+- 103D 1032 ◌ွဲ
+- 102D 1030 ◌ိူ
+- 102D 102F 101D 103A ◌ိုဝ်
+- 102D 1030 101D 103A ◌ိူဝ်
+- 1030 101D 103A ◌ူဝ်
+- 1031 1083 ေႃ
+- 103A ◌်
+◌
+p48 has -ai vowel uni1032 ◌ဲ annotated as uni1086, which is ◌ႆ Shan final -y.
+
+p48 Khamti digits are attested but not yet encoded.
+
+p49 uses uni1032 for -ai vowel, but p48 suggests uni1086, unclear which to use.
+
+---
 
 p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
