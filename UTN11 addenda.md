@@ -132,7 +132,7 @@ The following are also used:
 ---
 
 **Tai Laing** (Endonym is Shan-Ni)
-◌
+
 p53 uniA9EC ꧬ appears twice in the consonant inventory.
 
 p53 The following should be included:
