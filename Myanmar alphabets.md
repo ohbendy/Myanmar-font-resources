@@ -27,6 +27,7 @@ Note: each language orders the alphabet differently. Here they follow the Burmes
 \* indicates the preferred form is dotted.
 
 † In Khamti, dotted AA65 is preferred for letter Nya; Unicode and UTN11 suggest dotted 107A for Aiton and Phake, but the form should be closer to dotted A9E7. Dotted 107A is an alternate form sometimes found in Shan.
+
 ‡ UTN11 shows ၵ uni1075 instead of ၷ 1077, but Carmen confirmed loop should be present.
 
 ## Independent vowels
