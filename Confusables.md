@@ -1,4 +1,4 @@
-This document lists the Myanmar character sequences that may be confusable, and notes ways to distinguish them.
+This document lists the Myanmar character sequences that may be confusable, and notes possible ways to distinguish them.
 
 | Character |     Similar to    | Notes |
 |:---------:|:-----------------:|:-------|
