@@ -12,7 +12,7 @@ This document lists the Myanmar character sequences that may be confusable, and 
 | ၥ <br>1065 | ၁ <br>1041 |
 | ၡ <br>1061 | ရ + ှ <br>101B + 103E | 1061 generally has the leg sloped |
 | ႁ <br>1081 | ဂ + ှ <br>1002 + 103E | 1081 generally has the leg sloped and joining |
-| ꩺ <br>AA7A | လ + ြ <br>101C + 103C |
+| ꩺ <br>AA7A | လ + ြ <br>101C + 103C | Components can be joined in AA7A; 103C can be disconnected |
 | ꩾ <br>AA7E | ခ + ျ + ှ <br>1001 + 103B + 103E | AA7E can have vertical left leg |
 | ꩿ <br>AA7F | ဆ + ျ + ှ <br>1006 + 103B + 103E | AA7F can have vertical left leg |
 | ၯ <br>106F | ဟ + ှ <br>101F + 103E | 106F can have leg connected |
