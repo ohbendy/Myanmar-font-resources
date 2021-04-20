@@ -1,0 +1,30 @@
+Some of the languages of Burma include ways to represent reduplication. This means that the syllable should be read/spoken twice. 
+
+## Burmese ##
+
+In Burmese language, reduplication is indicated with a superscript 2 (Burmese numeral ၂) immediately following the syllable. (A Unicode proposal is probably worth compiling if enough examples can be found.)
+
+## Shan ## 
+
+In Shan language, reduplicated vowel signs need to appear before any tonemarks. The following table shows all possible combinations of reduplicated vowel mark with tonemarks, on the Shan letter Ka (ၵ)
+
+***Note*** depending on your browser and system fonts, the doubled signs may sit directly on top of each other and render as a single mark, or otherwise display incorrectly. This is a font problem, not a Unicode problem! Once these combinations are confirmed, I will create an image to show how they should look.
+
+| Vowel  | Sign | [no tone mark] | ႇ | ႈ | း | ႉ | ႊ |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| -aa | ႃႃ | ၵႃႃ | ၵႃႃႇ  | ၵႃႃႈ  | ၵႃႃး  | ၵႃႃႉ  | ၵႃႃႊ  |
+| -i |ိိ | ၵိိ | ၵိိႇ  | ၵိိႈ  | ၵိိး  | ၵိိႉ  | ၵိိႊ  |
+| -ii |ီီ | ၵီီ | ၵီီႇ  | ၵီီႈ  | ၵီီး  | ၵီီႉ  | ၵီီႊ  |
+| -u |ုု | ၵုု | ၵုုႇ  | ၵုုႈ  | ၵုုး  | ၵုုႉ  | ၵုုႊ  |
+| -uu |ူူ | ၵူူ | ၵူူႇ  | ၵူူႈ  | ၵူူး  | ၵူူႉ  | ၵူူႊ  |
+| -e |ေေ | ၵေေ | ၵေေႇ  | ၵေေႈ  | ၵေေး  | ၵေေႉ  | ၵေေႊ  |
+| -ae |ႄႄ | ၵႄႄ | ၵႄႄႇ  | ၵႄႄႈ  | ၵႄႄး  | ၵႄႄႉ  | ၵႄႄႊ  |
+| -ai |ႆႆ | ၵႆႆ | ၵႆႆႇ  | ၵႆႆႈ  | ၵႆႆး  | ၵႆႆႉ  | ၵႆႆႊ  |
+| -am |ံံ | ၵံံ | ၵံံႇ  | ၵံံႈ  | ၵံံး  | ၵံံႉ  | ၵံံႊ  |
+|[final consonant] |်် | ၵ်် | ၵ််ႇ  | ၵ််ႈ  | ၵ််း  | ၵ််ႉ  | ၵ််ႊ  |
+
+I'm not yet certain how reduplication is indicated if there's more than one vowel component. If the syllable has ◌ေႃ် or ◌ၢႆ or ◌်ံ for example, which bits should be doubled?
+
+## Tai Khamti ##
+
+To follow.
