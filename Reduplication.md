@@ -6,7 +6,9 @@ In Burmese language, reduplication is indicated with a superscript 2 (Burmese nu
 
 ## Shan ## 
 
-In Shan language, reduplicated vowel signs need to appear before any tonemarks. The following table shows all possible combinations of reduplicated vowel mark with tonemarks, on the Shan letter Ka (ၵ)
+Modern orthography prefers to use the reduplication sign A9E6 ꧦ after a syllable to show reduplication. Older texts repeat the vowel sign to indicate the syllable is doubled.
+
+Any doubled vowel signs need to appear before any tonemarks. The following table shows all possible combinations of doubled vowel mark with tonemarks, on the Shan letter Ka (ၵ)
 
 ***Note*** depending on your browser and system fonts, the doubled signs may sit directly on top of each other and render as a single mark, or otherwise display incorrectly. This is a font problem, not a Unicode problem! Once these combinations are confirmed, I will create an image to show how they should look.
 
