@@ -46,3 +46,6 @@ This notes the glyphs variations needed for some of the languages of Burma.
 
 ## [Confusables](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Confusables.md)
 Noting the sequences that have similar visual appearance, and how some designs can distinguish those sequences.
+
+## [Reduplication](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Reduplication.md)
+Explaining how reduplication works in different orthographies.
