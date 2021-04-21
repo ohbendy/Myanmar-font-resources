@@ -13,7 +13,7 @@ Any doubled vowel signs need to appear before any tonemarks. The following table
 ***Note*** depending on your browser and system fonts, the doubled signs may sit directly on top of each other and render as a single mark, or otherwise display incorrectly. This is a font problem, not a Unicode problem! Once these combinations are confirmed, I will create an image to show how they should look.
 
 | Vowel  | Sign | [no tone mark] | ႇ | ႈ | း | ႉ | ႊ | Notes |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--|
 | -aa | ႃႃ | ၵႃႃ | ၵႃႃႇ  | ၵႃႃႈ  | ၵႃႃး  | ၵႃႃႉ  | ၵႃႃႊ  | Doubled long -aa presents no problems |
 | -i |ိိ | ၵိိ | ၵိိႇ  | ၵိိႈ  | ၵိိး  | ၵိိႉ  | ၵိိႊ  | Doubled -i should sit side by side, or with second vertically offset |
 | -ii |ီီ | ၵီီ | ၵီီႇ  | ၵီီႈ  | ၵီီး  | ၵီီႉ  | ၵီီႊ  | Doubled -ii should sit side by side, or with second vertically offset |
