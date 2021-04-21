@@ -12,18 +12,18 @@ Any doubled vowel signs need to appear before any tonemarks. The following table
 
 ***Note*** depending on your browser and system fonts, the doubled signs may sit directly on top of each other and render as a single mark, or otherwise display incorrectly. This is a font problem, not a Unicode problem! Once these combinations are confirmed, I will create an image to show how they should look.
 
-| Vowel  | Sign | [no tone mark] | ႇ | ႈ | း | ႉ | ႊ |
+| Vowel  | Sign | [no tone mark] | ႇ | ႈ | း | ႉ | ႊ | Notes |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| -aa | ႃႃ | ၵႃႃ | ၵႃႃႇ  | ၵႃႃႈ  | ၵႃႃး  | ၵႃႃႉ  | ၵႃႃႊ  |
-| -i |ိိ | ၵိိ | ၵိိႇ  | ၵိိႈ  | ၵိိး  | ၵိိႉ  | ၵိိႊ  |
-| -ii |ီီ | ၵီီ | ၵီီႇ  | ၵီီႈ  | ၵီီး  | ၵီီႉ  | ၵီီႊ  |
-| -u |ုု | ၵုု | ၵုုႇ  | ၵုုႈ  | ၵုုး  | ၵုုႉ  | ၵုုႊ  |
-| -uu |ူူ | ၵူူ | ၵူူႇ  | ၵူူႈ  | ၵူူး  | ၵူူႉ  | ၵူူႊ  |
-| -e |ေေ | ၵေေ | ၵေေႇ  | ၵေေႈ  | ၵေေး  | ၵေေႉ  | ၵေေႊ  |
-| -ae |ႄႄ | ၵႄႄ | ၵႄႄႇ  | ၵႄႄႈ  | ၵႄႄး  | ၵႄႄႉ  | ၵႄႄႊ  |
-| -ai |ႆႆ | ၵႆႆ | ၵႆႆႇ  | ၵႆႆႈ  | ၵႆႆး  | ၵႆႆႉ  | ၵႆႆႊ  |
-| -am |ံံ | ၵံံ | ၵံံႇ  | ၵံံႈ  | ၵံံး  | ၵံံႉ  | ၵံံႊ  |
-|[final consonant] |်် | ၵ်် | ၵ််ႇ  | ၵ််ႈ  | ၵ််း  | ၵ််ႉ  | ၵ််ႊ  |
+| -aa | ႃႃ | ၵႃႃ | ၵႃႃႇ  | ၵႃႃႈ  | ၵႃႃး  | ၵႃႃႉ  | ၵႃႃႊ  | Doubled long -aa presents no problems |
+| -i |ိိ | ၵိိ | ၵိိႇ  | ၵိိႈ  | ၵိိး  | ၵိိႉ  | ၵိိႊ  | Doubled -i should sit side by side, or with second vertically offset |
+| -ii |ီီ | ၵီီ | ၵီီႇ  | ၵီီႈ  | ၵီီး  | ၵီီႉ  | ၵီီႊ  | Doubled -ii should sit side by side, or with second vertically offset |
+| -u |ုု | ၵုု | ၵုုႇ  | ၵုုႈ  | ၵုုး  | ၵုုႉ  | ၵုုႊ  | Handling of doubled -u is uncertain, attestations needed |
+| -uu |ူူ | ၵူူ | ၵူူႇ  | ၵူူႈ  | ၵူူး  | ၵူူႉ  | ၵူူႊ  | Handling of doubled -uu is uncertain, attestations needed |
+| -e |ေေ | ၵေေ | ၵေေႇ  | ၵေေႈ  | ၵေေး  | ၵေေႉ  | ၵေေႊ  | Handling of doubled -e is uncertain, attestations needed |
+| -ae |ႄႄ | ၵႄႄ | ၵႄႄႇ  | ၵႄႄႈ  | ၵႄႄး  | ၵႄႄႉ  | ၵႄႄႊ  | Handling of doubled -ae is uncertain, attestations needed |
+| -ai |ႆႆ | ၵႆႆ | ၵႆႆႇ  | ၵႆႆႈ  | ၵႆႆး  | ၵႆႆႉ  | ၵႆႆႊ  | Doubled -ai should sit side by side, or with second vertically offset |
+| -am |ံံ | ၵံံ | ၵံံႇ  | ၵံံႈ  | ၵံံး  | ၵံံႉ  | ၵံံႊ  | Doubled anusvara should sit side by side, or with second vertically offset |
+|[final consonant] |်် | ၵ်် | ၵ််ႇ  | ၵ််ႈ  | ၵ််း  | ၵ််ႉ  | ၵ််ႊ  | Doubled asat should sit side by side, or with second vertically offset |
 
 I'm not yet certain how reduplication is indicated if there's more than one vowel component. If the syllable has ◌ေႃ် or ◌ၢႆ or ◌်ံ for example, which bits should be doubled?
 
