@@ -5,8 +5,8 @@ This document lists the Myanmar character sequences that may be confusable, and 
 | ဈ <br>1008 | စ + ျ <br>1005 + 103B | 103B is generally angled, 1008 rounded |
 | ဝ <br> 101D | ၀ <br> 1040 | 1040 is often gapped |
 | ဦ  <br>1026   | ဥ + ီ  <br>1025 + 102E | 1025 + 102E could probably be normalised to 1026? |
-| ဩ <br>1029   | သ + ြ <br>101E + 103C | Both are valid sequences* |
-| ဪ <br>102A | သ + ြ + ေ + ာ + ် <br> 101E + 103C + 1031 + 102C + 103A | Both are valid sequences* |
+| ဩ <br>1029   | သ + ြ <br>101E + 103C | Both are valid/distinct sequences* |
+| ဪ <br>102A | သ + ြ + ေ + ာ + ် <br> 101E + 103C + 1031 + 102C + 103A | Both are valid/distinct sequences* |
 | ၑ <br>1051 | ꧽ <br>A9FD | 1051 often has a ring rather than a dot inside |
 | ၛ <br>105B | ဇ + ျ <br>1007 + 103B | 103B is generally angled, 105B rounded |
 | ၡ <br>1061 | ရ + ှ <br>101B + 103E | 1061 generally has the leg sloped |
