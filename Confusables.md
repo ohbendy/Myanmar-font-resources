@@ -19,4 +19,4 @@ This document lists the Myanmar character sequences that may be confusable, and 
 | ꩾ <br>AA7E | ခ + ျ + ှ <br>1001 + 103B + 103E | AA7E can have vertical left leg |
 | ꩿ <br>AA7F | ဆ + ျ + ှ <br>1006 + 103B + 103E | AA7F can have vertical left leg |
 
-* No tradition of visually disambiguating the written forms of the two sequences, context makes it clear.
+\* No tradition of visually disambiguating the written forms of the two sequences, context makes it clear.
