@@ -50,7 +50,7 @@ Two marks below
 Two marks above
 
 | First | Second | Combined | Notes |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:--|
 | 102D <br> ိ <br> iMark | 1032 <br> ဲ <br> aiMark | 102D 1032 <br> ိဲ <br> aiMark iMark* | This sequence occurs only with uMark in 102D 102F 1032 ◌ိုဲ|
 | 1004 103A 1039 <br> င်္ <br> kinzi |  1035 <br> ဵ <br> eAbove | 1004 103A 1039 1035 <br> င်္ဵ <br> kinzi eAbove | This sequence occurs only with uMark in 1004 103A 1039 1035 102F င်္ဵု |
 
