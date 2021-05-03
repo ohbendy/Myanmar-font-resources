@@ -44,3 +44,13 @@ Two marks below
 | medialHa | dotBelow | medialHa dotBelow |
 | uMark | dotBelow | uMark dotBelow |
 | uuMark | dotBelow | uuMark dotBelow |
+
+## Mon ##
+
+Two marks above
+
+| First | Second | Combined |
+|:-:|:-:|:-:|
+| 102D <br> ိ <br> iMark | 1032 <br> ဲ <br> aiMark | 102D 102F 1032 <br> ိဲ <br> aiMark iMark* |
+
+\* Note visually the aiMark appears to the left of iMark.
