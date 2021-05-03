@@ -9,8 +9,8 @@ Three marks above
 | First | Second | Third | Combined |
 |:-:|:-:|:-:|:-:|
 | 1004 103A 1039 <br> င်္ <br> kinzi| 102D <br> ိ <br> iMark | 1036 <br> ံ <br> anusvara | 1004 103A 1039 102D 1036 <br> င်္ိံ <br> kinzi iMark anusvara |
-| kinzi | iiMark | anusvara | kinzi iiMark anusvara |
-| kinzi | aiMark | anusvara | kinzi aiMark anusvara |
+| 1004 103A 1039 <br> င်္ <br> kinzi | 102E <br> ီ <br> iiMark | 1036 <br> ံ <br> anusvara | 1004 103A 1039 102D 1036 <br> င်္ီံ <br> kinzi iiMark anusvara |
+| 1004 103A 1039 <br> င်္ <br> kinzi | aiMark | anusvara | kinzi aiMark anusvara |
 
 Two marks above
 
