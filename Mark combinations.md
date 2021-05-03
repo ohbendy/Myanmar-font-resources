@@ -1,6 +1,6 @@
 # Mark combinations #
 
-Here we list the combinations of marks above and below a base consonant that can occur in each language. The 'combined' sequences in the final column may be drawn as precomposed glyphs.
+Here we list the combinations of marks above and below a base consonant that can occur in each language. The 'combined' sequences in the final column may be drawn as precomposed glyphs. Note the visual appearance here may be all wrong depending on what font your browser can find.
 
 ## Burmese ##
 
@@ -8,7 +8,7 @@ Three marks above
 
 | First | Second | Third | Combined |
 |:-:|:-:|:-:|:-:|
-| 1004 103A 1039 <br> င်္ <br> kinzi| 102D <br> ိ <br> iMark | 1036 <br> ံ <br> anusvara | 1004 103A 1039 102D 1036 <br> င်္ိံ <br> kinzi iMark anusvara |
+| 1004 103A 1039 <br> င်္ <br> kinzi | 102D <br> ိ <br> iMark | 1036 <br> ံ <br> anusvara | 1004 103A 1039 102D 1036 <br> င်္ိံ <br> kinzi iMark anusvara |
 | 1004 103A 1039 <br> င်္ <br> kinzi | 102E <br> ီ <br> iiMark | 1036 <br> ံ <br> anusvara | 1004 103A 1039 102D 1036 <br> င်္ီံ <br> kinzi iiMark anusvara |
 | 1004 103A 1039 <br> င်္ <br> kinzi | 1032 <br> ဲ <br> aiMark | 1036 <br> ံ <br> anusvara | 1004 103A 1039 1032 1036 <br> င်္ဲံ <br> kinzi aiMark anusvara |
 
@@ -49,8 +49,9 @@ Two marks below
 
 Two marks above
 
-| First | Second | Combined | |
+| First | Second | Combined | Notes |
 |:-:|:-:|:-:|:-:|
 | 102D <br> ိ <br> iMark | 1032 <br> ဲ <br> aiMark | 102D 1032 <br> ိဲ <br> aiMark iMark* | This sequence occurs only with uMark in 102D 102F 1032 ◌ိုဲ|
+| 1004 103A 1039 <br> င်္ <br> kinzi |  1035 <br> ဵ <br> eAbove | 1004 103A 1039 1035 <br> င်္ဵ <br> kinzi eAbove | This sequence occurs only with uMark in 1004 103A 1039 1035 102F င်္ဵု |
 
 \* Note visually the aiMark appears to the left of iMark.
