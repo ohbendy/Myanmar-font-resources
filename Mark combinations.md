@@ -49,8 +49,8 @@ Two marks below
 
 Two marks above
 
-| First | Second | Combined |
-|:-:|:-:|:-:|
-| 102D <br> ိ <br> iMark | 1032 <br> ဲ <br> aiMark | 102D 102F 1032 <br> ိဲ <br> aiMark iMark* |
+| First | Second | Combined | |
+|:-:|:-:|:-:|:-:|
+| 102D <br> ိ <br> iMark | 1032 <br> ဲ <br> aiMark | 102D 1032 <br> ိဲ <br> aiMark iMark* | This sequence occurs only with uMark in 102D 102F 1032 ◌ိုဲ|
 
 \* Note visually the aiMark appears to the left of iMark.
