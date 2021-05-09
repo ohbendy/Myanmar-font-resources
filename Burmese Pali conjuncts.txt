@@ -1,10 +1,29 @@
 Pali conjuncts
 
-Standard within-varga conjuncts (from Okell)
+Three consonants:
+kkr	က္ကြ
+kkhw	က္ခွ
+tthy	တ္ထျ
+tthw	တ္ထွ
+ntw	န္တွ
+ndr	န္ဒြ
+str	သ္တြ
+
+Two consonants:
 kk	က္က
 kkh	က္ခ
-gg	ဂ္ခ
+ky	ကျ
+kr 	ကြ
+kl 	က္လ
+kv	ကွ
+khy	ချ
+khv	ခွ
+gg	ဂ္ဂ
 ggh	ဂ္ဃ
+gy	ဂျ
+gr	ဂြ
+cy	စျ
+cv	စွ
 ṅk	င်္က
 ṅkh	င်္ခ
 ṅg	င်္ဂ
@@ -12,12 +31,13 @@ ggh	ဂ္ဃ
 cc	စ္စ
 cch	စ္ဆ
 jj	ဇ္ဇ
-jjh	ဇ္ဈ
+jjh	ဇ္ဈ (Mon ဇ္ၛ)
 ñc	ဉ္စ
 ñch	ဉ္ဆ
 ñj	ဉ္ဇ
-ñjh	ဉ္ဈ
+ñjh	ဉ္ဈ (Mon ဉ္ၛ)
 ññ	ဉ္ဉ = ည
+ñh	ဉှ
 ṭṭ	ဋ္ဋ
 ṭṭh	ဋ္ဌ
 ḑḑ	ဍ္ဍ
@@ -27,69 +47,56 @@ jjh	ဇ္ဈ
 ṇḑ	ဏ္ဍ
 ṇḑh	ဏ္ဎ
 ṇṇ	ဏ္ဏ
+ṇh	ဏှ
 tt	တ္တ
 tth	တ္ထ
+ty 	တျ
+tr	တြ
+tl	တ္လ
+tv	တွ
 dd	ဒ္ဒ
 ddh	ဒ္ဓ
+dy	ဒျ
+dr	ဒြ
+dv	ဒွ
+dhy	ဓျ
+dhv	ဓွ
+nkh	န္ခ
 nt	န္တ
 nth	န္ထ
 nd	န္ဒ
 ndh	န္ဓ
 nn	န္န
+ny	နျ
+nh	နှ
 pp	ပ္ပ
 pph	ပ္ဖ
+py	ပျ
+pl	ပ္လ
 bb	ဗ္ဗ
 bbh	ဗ္ဘ
+by	ဗျ
+br	ဗြ
 mp	မ္ပ
 mph	မ္ဖ
 mb	မ္ဗ
 mbh	မ္ဘ
 mm	မ္မ
-ll	လ္လ
-ss	သ္သ = ဿ
-
-Others (from Burmese Pali books)
-
-kkr	က္ကြ
-kkhw	က္ခွ
-tthy	တ္ထျ
-tthw	တ္ထွ
-ntw	န္တွ
-ndr	န္ဒြ
-
-kr 	ကြ
-kl 	က္လ
-kv	ကွ
-khy	ချ
-khv	ခွ
-gy	ဂျ
-gr	ဂြ
-cy	စျ
-cv	စွ
-ñh	ဉှ
-ṇh	ဏှ
-ty 	တျ
-tr	တြ
-tl	တ္လ
-tv	တွ
-dr	ဒြ
-dv	ဒွ
-dhv	ဓွ
-nkh	န္ခ
-nh	နှ
-by	ဗျ
-br	ဗြ
+my	မျ
 mh	မှ
 yy	ယျ
 yh	ယှ
 ly	လျ
+ll	လ္လ
 lh	လှ
 vy 	ဝျ
 vh	ဝှ
 st 	သ္တ
 sn	သ္န
 sm	သ္မ
+sy	သျ
 sv	သွ
+ss	သ္သ = ဿ
 hm	ဟ္မ
 hv	ဟွ
 ḷh	ဠှ
