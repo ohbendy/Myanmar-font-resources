@@ -51,6 +51,12 @@ ss	သ္သ = ဿ
 Others (from Burmese Pali books)
 
 kkr	က္ကြ
+kkhw က္ခွ
+tthy	တ္ထျ
+tthw တ္ထွ
+ntw န္တွ
+ndr	န္ဒြ
+
 kr 	ကြ
 kl 	က္လ
 kv	ကွ
@@ -62,7 +68,6 @@ cy	စျ
 cv	စွ
 ñh	ဉှ
 ṇh	ဏှ
-tthy	တ္ထျ
 ty 	တျ
 tr	တြ
 tl	တ္လ
@@ -71,8 +76,6 @@ dr	ဒြ
 dv	ဒွ
 dhv	ဓွ
 nkh	န္ခ
-ntw	န္တွ
-ndr	န္ဒြ
 nh	နှ
 by	ဗျ
 br	ဗြ
