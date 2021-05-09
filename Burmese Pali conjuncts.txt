@@ -50,12 +50,12 @@ ss	သ္သ = ဿ
 
 Others (from Burmese Pali books)
 
-kkr က္ကြ
-kkhw  က္ခွ
-tthy  တ္ထျ
-tthw  တ္ထွ
-ntw န္တွ
-ndr န္ဒြ
+kkr	က္ကြ
+kkhw	က္ခွ
+tthy	တ္ထျ
+tthw	တ္ထွ
+ntw	န္တွ
+ndr	န္ဒြ
 
 kr 	ကြ
 kl 	က္လ
