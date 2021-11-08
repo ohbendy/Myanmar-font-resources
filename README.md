@@ -8,7 +8,7 @@ This lists the languages that can be written in the Burmese script, with their O
 This lists all the consonants of each alphabet currently enabled by Unicode. Mainly based on [UTN11v4](https://www.unicode.org/notes/tn11/UTN11_4.pdf) but with additions from my own research.
 
 ## [Unicode texts](https://github.com/ohbendy/Myanmar-font-resources/tree/master/Unicode%20texts)
-Short texts for proofing fonts in different languages. Texts converted from ASCII or online sources and may contain errors. Apologies if any content is inappropriate, I can't read any of these languages.
+Short texts for proofing fonts in different languages. Texts converted from ASCII or online sources. Depending on the fonts available on your system, text may appear broken, but it also might contain encoding errors. Apologies if any content is inappropriate or copyrighted, I can't read any of these languages.
 
 ## [Burmese conjunct table](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Burmese%20conjunct%20table.md)
 This shows every pair of consonants of the Burmese alphabet as a stacked conjunct.
