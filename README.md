@@ -47,6 +47,11 @@ Compiled from:
 ## [Localised forms](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Localised%20forms.md)
 This notes the glyphs variations needed for some of the languages of Burma.
 
+## [Collisions](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Collisions.md)
+A list of cluster pairs for testing collisions in your Burmese font. As so many syllables have above- and below-base elements that stick out further than the base letter, we need to add contextual kerning rules to ensure such collisions are taken care of. Each glyph in the list actually stands for a class. မ is a one-bowl letter, so we also need to test clusters where it appears with other one-bowl letters such as ခ ဂ င စ ဇ ဎ ဒ ဓ န ပ ဖ ဗ မ ဝ. Likewise, က stands for any two-bowl letter, e.g ဃ ဆ ဏ တ ထ ဘ ယ လ သ ဟ အ. Similarly, ွ represents any one-bowl subscript letter, ္က represents any two-bowl subscript. Basing our classes on sidebearings means ဠ represents letters with a bowl that opens to the right and has a descender (ဋ ဌ), while ဉ် represents letters with a bowl that opens to the left and has a descender (ည ဍ etc). Characters like ဈ form another class, including medialYa ျ and post-base forms of -u and -uu; those all have the vertical stem and probably the same right sidebearing which needs to be checked against any below-base elements on the following cluster. Then there are various 'legs' that attach below base letters, vowels -u and -uu, medialHa, and combinations of those characters. I separated the consonant Na and the below base ligature medialWaHa into their own groups because they present singular challenges. Below base elements may also collide with a following medialRa. And all the combinations need to be tested when there's a dotbelow in the first cluster. 
+
+Coding all the contextual kerning rules manually means measuring the amount of space needed to avoid collisions and writing rules to handle each situation. It amounts to about 300 rules. And of course the distances will vary between weights/styles in the font. So an algorithmic approach would be much more reliable.
+
 ## [Confusables](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Confusables.md)
 Noting the sequences that have similar visual appearance, and how some designs can distinguish those sequences.
 
