@@ -54,7 +54,7 @@ Each glyph in the list actually stands for a class. မ is a one-bowl letter, so
 
 Then there are various 'legs' that attach below base letters, vowels -u and -uu, medialHa, and combinations of those characters. I separated the consonant Na and the below base ligature medialWaHa into their own groups because they present singular challenges. Below base elements may also collide with a following medialRa. And all the combinations need to be tested when there's a dotbelow in the first cluster. 
 
-Coding all the contextual kerning rules manually means measuring the amount of space needed to avoid collisions and writing rules to handle each situation. It amounts to about 300 rules. And of course the distances will vary between weights/styles in the font. So an algorithmic approach would be much more reliable.
+Coding all the contextual kerning rules manually means measuring the amount of space needed to avoid collisions and writing rules to handle each situation. And of course the distances will vary between weights/styles in the font. And we want to make sure that clusters don't bump when there's also a wordspace between them. So an algorithmic approach would be much more reliable.
 
 ## [Confusables](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Confusables.md)
 Noting the sequences that have similar visual appearance, and how some designs can distinguish those sequences.
