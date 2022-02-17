@@ -227,6 +227,6 @@ Below-base collisions with dotbelow:
 မြု့မှု
 မြု့မှူ
 မြု့မြ
-မါ့မ့
+မ္ကါ့
 မါ့မ္က
 မါ့မွှ
