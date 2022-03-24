@@ -47,6 +47,8 @@ Number of speakers is very approximate in some cases, and should not be taken as
 
 ## Languages that may in future be able to be written using Burmese Unicode ##
 
+These orthographies require further documentation and/or additional character encodings
+
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Khumi [Khami]|70k||||cnk/cek|||
