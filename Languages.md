@@ -42,4 +42,4 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |Tavoyan|440k||||tvn||
 |Western Pwo Karen|210k|PWO_|||pwo||
 
-* No tag currently exists for Geba Karen; KRN_ is the generic tag for Karen languages
+\* No tag currently exists for Geba Karen; KRN_ is the generic tag for Karen languages
