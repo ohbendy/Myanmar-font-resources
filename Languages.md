@@ -32,7 +32,7 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |S'gaw Karen|1.5m|KSW_|||ksw||
 |Sanskrit|no longer spoken|SAN_|sa|san|san||
 |Shan|3.3m|SHN_||shn|shn||
-|Shan Ni [Tai Laing]|100k||||tjl||
+|Shan Ni [Tai Laing]|100k|TJL_|||tjl||
 |Shwe Palaung|All Palaung 560k|PLG_|||pll||
 |Tai Aiton|1500|AIO_|||||
 |Tai Khamti [Khamti Shan]|13k|KHT_|||kht||
