@@ -43,3 +43,11 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |Western Pwo Karen|210k|PWO_|||pwo||
 
 \* No tag currently exists for Geba Karen; KRN_ is the generic tag for Karen languages
+
+
+## Languages that may in future be able to be written using Burmese Unicode ##
+
+| Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
+|-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Khumi [Khami]|70k||||cnk/cek|||
+| Chak [Sak, Thet, Asak]|40k||||ckh|||
