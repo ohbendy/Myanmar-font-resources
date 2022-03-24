@@ -16,13 +16,14 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |Eastern Pwo Karen, monastic orthography|1m|KJP_||||kjp-Mymr-x-phlouyu|
 |Eastern Pwo Karen, Buddhist orthography||KJP_||||kjp-Mymr-x-thiyon||
 |Eastern Pwo Karen, Christian orthography||KJP_||||kjp-Mymr-x-chekhi||
-|Geba Karen|40k||||kvq||
+|Geba Karen|40k||||kvq|kvq-x-hbot-4b565120|
 |Intha|100-200k||||int||
+|Jingpho [Kachin]|1m|||kac|kac|||
 |Karen||KRN_|||kar||
 |Kayah [Li] [Western Kayah]|190k|KYU_|||kyu||
 |Moken|8k||||mwt||
 |Mon (in Burma)|851k|MON_|||mnw||
-|Mon (in Thailand)|||||mnw||
+|Mon (in Thailand)||MONT|||mnw|mnw-Mymr-x-thai|
 |Old Burmese|no longer spoken||||obr||
 |Pa'O Karen|560k|BLK_|||blk||
 |Pale [Ruching] Palaung|All Palaung 560k|PLG_|||pce||
