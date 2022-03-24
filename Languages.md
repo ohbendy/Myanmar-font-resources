@@ -50,4 +50,3 @@ Number of speakers is very approximate in some cases, and should not be taken as
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Khumi [Khami]|70k||||cnk/cek|||
-| Chak [Sak, Thet, Asak]|40k||||ckh|||
