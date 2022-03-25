@@ -8,7 +8,8 @@ Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym
 
 Number of speakers is very approximate in some cases, and should not be taken as an estimate of number of script users as literacy rates vary. Likewise languages no longer spoken do not imply there are no script users, since Pali, Sanskrit and Old Burmese are used for religious and academic purposes.
 
-In cases where a script has different variants, BCP47 subtags can be used to specify the variant. In cases that lack registered OpenType tags, Harfbuzz codes can be used to call the font's OpenType lookups registered with that script tag. 
+In cases where a script has different variants, BCP47 subtags can be used to specify the variant. In cases that lack a registered OpenType tag, Harfbuzz codes can be used to call the font's OpenType lookups registered with that script tag. 
+
 
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
