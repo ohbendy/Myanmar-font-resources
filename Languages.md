@@ -8,6 +8,8 @@ Note the OpenType __script__ tag `mymr` is deprecated, we should always use `mym
 
 Number of speakers is very approximate in some cases, and should not be taken as an estimate of number of script users as literacy rates vary. Likewise languages no longer spoken do not imply there are no script users, since Pali, Sanskrit and Old Burmese are used for religious and academic purposes.
 
+In cases where a script has different variants, BCP47 subtags can be used to specify the variant. In cases that lack registered OpenType tags, Harfbuzz codes can be used to call the font's OpenType lookups registered with that script tag. 
+
 | Language | № of speakers | OpenType | ISO 639-1 | ISO 639-2 | ISO 639-3 | BCP 47 | Harfbuzz | 
 |-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Burmese|33 million|BRM_|my|bur/mya|mya||my-x-hbscmym2|
@@ -24,7 +26,7 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |Moken|8k||||mwt||
 |Mon (in Burma)|851k|MON_|||mnw||
 |Mon (in Thailand)||MONT|||mnw|mnw-Mymr-x-TH|mnw-x-hbot-4D4F5054|
-|Old Burmese|no longer spoken||||obr||
+|Old Burmese|no longer spoken||||obr||my-x-hbot-4F425220|
 |Pa'O Karen|560k|BLK_|||blk||
 |Pale [Ruching] Palaung|All Palaung 560k|PLG_|||pce||
 |Pali|no longer spoken|PAL_|pi|pli|pli||
@@ -34,7 +36,7 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |Shan|3.3m|SHN_||shn|shn||
 |Shan Ni [Tai Laing]|100k|TJL_|||tjl||
 |Shwe Palaung|All Palaung 560k|PLG_|||pll||
-|Tai Aiton|1500|AIO_|||||
+|Tai Aiton|1500|AIO_|||aio||
 |Tai Khamti [Khamti Shan]|13k|KHT_|||kht||
 |Tai Khamyang| 50 |||| ksu, nrr ||
 |Tai Phake|2000|PHK_|||phk||
