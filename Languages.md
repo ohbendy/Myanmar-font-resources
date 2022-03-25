@@ -23,7 +23,7 @@ Number of speakers is very approximate in some cases, and should not be taken as
 |Kayah [Li] [Western Kayah]|190k|KYU_|||kyu||
 |Moken|8k||||mwt||
 |Mon (in Burma)|851k|MON_|||mnw||
-|Mon (in Thailand)||MONT|||mnw|mnw-Mymr-x-thai|mnw-x-hbot-4D4F5054|
+|Mon (in Thailand)||MONT|||mnw|mnw-Mymr-x-TH|mnw-x-hbot-4D4F5054|
 |Old Burmese|no longer spoken||||obr||
 |Pa'O Karen|560k|BLK_|||blk||
 |Pale [Ruching] Palaung|All Palaung 560k|PLG_|||pce||
