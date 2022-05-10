@@ -47,6 +47,13 @@ Compiled from:
 ## [Localised forms](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Localised%20forms.md)
 This notes the glyphs variations needed for some of the languages of Burma.
 
+## [Generate syllables]
+For checking that glyphs are interacting correctly.
+Currently just for Burmese language, others can be added.
+First we categorise each character or sequence. Consonants includes just the base consonants used for Burmese language. Rhymes includes all possible syllable endings (vowel or vowel + final consonant, with or without tonemarks). Medials includes each of the four Burmese medial letters (medialYa, medialRa, medialWa and medialHa) and the seven possible combinations of those. Kinzi contains the single sequence 1004 103A 1039, which can be added to any syllable.
+We then generate combinations of every consonant with every rhyme, every consonant with every medial and every rhyme, every consonant with every subjoined consonant, every conjunct with every rhyme, every conjunct with medialYa or medialRa and every rhyme; and then the whole lot again with kinzi. 
+Beware, this generates 572,290 syllables. Is it an exhaustive list of every possible Burmese syllable? I don't know :) 
+
 ## [Collisions](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Collisions.md)
 A list of cluster pairs that cannot be handled by spacing alone, useful for testing collisions in your Burmese font. As so many syllables have above- and below-base elements that stick out further than the base letter, we need to add contextual kerning rules to ensure such collisions are taken care of. 
 
