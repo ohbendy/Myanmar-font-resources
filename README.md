@@ -59,7 +59,10 @@ We then generate combinations of every consonant with every rhyme; every consona
 Beware, this script generates 572,290 Burmese syllables. Is it an exhaustive list of every possible syllable? I don't know :) 
 
 ### Mon ###
-For Mon, we combine each Mon initial with each permissible vowel sequence and then each permissible final consonant. We then combine each independent vowel with each final consonant. Finally we combine each permissible conjunct with each vowel and final consonant. This generates 137,909 syllables. 
+For Mon language, we combine each Mon initial with each permissible vowel sequence and then each permissible final consonant. We then combine each independent vowel with each final consonant. Finally we combine each permissible conjunct with each vowel and final consonant. This generates 137,909 syllables.
+
+### Shan ###
+For Shan language, we cycle through each Shan consonant (not currently including borrowed ones from Burmese that occasionally crop up), combining it with every rhyme and tonemark. We then cycle through each permitted initial cluster, combining each with every rhyme and tonemark. This generates 17,364 syllables.
 
 ## [Collisions](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Collisions.md)
 A list of cluster pairs that cannot be handled by spacing alone, useful for testing collisions in your Burmese font. As so many syllables have above- and below-base elements that stick out further than the base letter, we need to add contextual kerning rules to ensure such collisions are taken care of. 
