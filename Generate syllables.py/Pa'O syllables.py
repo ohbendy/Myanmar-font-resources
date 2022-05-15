@@ -6,7 +6,7 @@ paoconsonants = ["က", "ခ", "င", "စ", "ဆ", "ည" "တ", "ထ", "ဒ", "
 paomedials = ["ျ", "ြ", "ွ", "ျွ", "ြွ"] 
 paovowels = ["ာ", "ါ", "ိ", "ီ", "ု", "ူ", "ေ", "ဲ", "ံ", "့", "ုံ", "ို", "ေ့", "ဲ့", "ုဲင့်", "ုဲင်", "ေါ့", "ော့", "ေါ", "ော", "ေါ်", "ော်", "ို့", "ို"] 
 paotonemarks = ["", "ꩻ", "း", "ႏ"]
-numerals = "၀၁၂၃၄၅၆၇၈၉"
+numerals = "𑛐𑛑𑛒𑛓𑛔𑛕𑛖𑛗𑛘𑛙"
 
 print("Every S'gaw consonant")
 for paoconsonant in paoconsonants:

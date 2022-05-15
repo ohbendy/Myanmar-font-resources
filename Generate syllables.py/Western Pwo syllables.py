@@ -6,7 +6,7 @@ wpwoconsonants = ["က", "ခ", "ဂ", "ဎ", "င", "စ", "ဆ", "ဇ", "ည",
 wpwomedials = ["ၠ", "ျ", "ြ", "ွ", "ှ"] # uncertain which ones can combine 
 wpwovowels = ["ာ", "ါ", "ံ", "့", "ဲ", "ၧ", "ၨ", "ု", "ူ", "ိ", "ီ", ] 
 wpwotonemarks = ["", "ၩ", "ၪ", "ၫ", "ၬ", "ၭ", "ၩ့", "ၫ့", "ၪ့", "း"]
-numerals = "𑛚𑛛𑛜𑛝𑛞𑛟𑛠𑛡𑛢𑛣"
+numerals = "၀၁၂၃၄၅၆၇၈၉"
 
 print("Every Western Pwo consonant")
 for wpwoconsonant in wpwoconsonants:
