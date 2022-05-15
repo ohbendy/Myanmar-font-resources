@@ -49,7 +49,7 @@ This notes the glyphs variations needed for some of the languages of Burma.
 
 ## [Generate syllables](https://github.com/ohbendy/Myanmar-font-resources/tree/master/Generate%20syllables.py)
 Python scripts for checking that glyphs are interacting correctly, currently just for Burmese and Mon languages, others can be added.
-First we categorise each character or sequence. 
+First we categorise each character or sequence, then analyse which permutations of consonant (or consonant cluster), medial, vowel, final consonant and tonemark are possible within each orthography. Unfortunately many of these scripts are based on incomplete, ambiguous or incompatible sources, but at least it's a start with helping to proof fonts supporting those languages. Hopefully more info will come to light. Altogether these scripts will generate 1,090,483 syllables; here they are broken down by language.
 
 ### Burmese ###
 For Burmese, consonants includes just the base consonants used for Burmese language. Rhymes includes all possible syllable endings (vowel or vowel + final consonant, with or without tonemarks). (Though the round -aa and tall -aa are used with different bases, we test both with all consonants.) Medials includes each of the four Burmese medial letters (medialYa, medialRa, medialWa and medialHa) and the seven possible combinations of those. Kinzi contains the single sequence 1004 103A 1039, which can be added to any syllable.
@@ -61,11 +61,44 @@ Beware, this script generates 572,290 Burmese syllables. Is it an exhaustive lis
 ### Mon ###
 For Mon language, we combine each Mon initial with each permissible vowel sequence and then each permissible final consonant. We then combine each independent vowel with each final consonant. Finally we combine each permissible conjunct with each vowel and final consonant. This generates 137,909 syllables.
 
+### S'gaw ###
+For S'gaw, we run through the consonants, combining them with every vowel and tonemark. We then run through every permitted initial with medial consonant, and do the same with every vowel and tonemark. Tall Aa does not combine with tonemarks so is cycled in a different way. This generates 3420 syllables.
+
+### Western Pwo ###
+For Western Pwo, we combine each consonant with each vowel and tonemark, and then repeat with consonant and medial, vowel and tonemark. This makes 17,921 syllables.
+
+### Eastern Pwo ###
+Here, we combine each initial consonant with each possible syllable rhyme (all documented combinations of vowel, tonemark and final consonant), and then repeat with consonant and medial and rhyme. This produces 48,618 syllables.
+
+### Pa'O ###
+In Pa'O, we combine each consonant with each vowel and tonemark, and then repeat each consonant with each medial and each vowel and tonemark. This comes to 11,611 syllables.
+
+### Geba ###
+For Geba, we run through each consonant with each vowel and tonemark, and then repeat with consonant, medial, vowel and tonemark. This creates 16,934 syllables.
+
+### Kayah ###
+Here, we combine each consonant with each vowel and tonemark, then repeat with consonant, medial, vowel and tonemark. This makes 5,001 combinations.
+
+### Asho ###
+In Asho, we generate each combination of consonant with vowel and tonemark, and then repeat with consonant, medial, vowel and tonemark. This produces 12,571 syllables.
+
 ### Shan ###
 For Shan language, we cycle through each Shan consonant (not currently including borrowed ones from Burmese that occasionally crop up), combining it with every rhyme and tonemark. We then cycle through each permitted initial cluster, combining each with every rhyme and tonemark. This generates 17,364 syllables.
 
-### S'gaw ###
-For S'gaw, we run through the consonants, combining them with every vowel and tonemark. We then run through every permitted initial with medial consonant, and do the same with every vowel and tonemark. Tall Aa does not combine with tonemarks so is cycled in a different way. This generates 3420 syllables.
+### Tai Khamti ###
+For Khamti, we combine each consonant with each vowel and tonemark, and then each consonant with each medial and vowel and tonemark. This makes 12,358 syllables.
+
+### Tai Aiton and Phake ###
+Here, we cycle through each consonant, combining with each rhyme (vowel or vowel + final) and then repeat with each of the two medials. This generates 2318 syllables.
+
+### Tai Laing / Shan Ni ###
+For Tai Laing, we combine each consonant with each rhyme and tonemark, and then repeat with initial clusters in place of consonants. This produces 20,668 syllables.
+
+### Shwe Palaung ###
+For Shwe Palaung, we cycle through each consonant, combining first with every vowel and every tonemark. We then combine consonants with vowel, final consonant and tonemark. Then we repeat with the possible consonant clusters in place of the initial consonants. This makes 175,584 syllables.
+
+### Rumai Palaung / Ta'ang ###
+Here we cycle through every initial consonant with every syllable rhyme (including tonemarks), and then repeat with initial clusters. This produces 35,916 syllables.
 
 ## [Collisions](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Collisions.md)
 A list of cluster pairs that cannot be handled by spacing alone, useful for testing collisions in your Burmese font. As so many syllables have above- and below-base elements that stick out further than the base letter, we need to add contextual kerning rules to ensure such collisions are taken care of. 
