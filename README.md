@@ -61,11 +61,32 @@ Beware, this script generates 572,290 Burmese syllables. Is it an exhaustive lis
 ### Mon ###
 For Mon language, we combine each Mon initial with each permissible vowel sequence and then each permissible final consonant. We then combine each independent vowel with each final consonant. Finally we combine each permissible conjunct with each vowel and final consonant. This generates 137,909 syllables.
 
+### S'gaw ###
+For S'gaw, we run through the consonants, combining them with every vowel and tonemark. We then run through every permitted initial with medial consonant, and do the same with every vowel and tonemark. Tall Aa does not combine with tonemarks so is cycled in a different way. This generates 3420 syllables.
+
+### Western Pwo ###
+
+### Eastern Pwo ###
+
+### Pa'O ###
+
+### Geba ###
+
+### Kayah ###
+
+### Asho ###
+
 ### Shan ###
 For Shan language, we cycle through each Shan consonant (not currently including borrowed ones from Burmese that occasionally crop up), combining it with every rhyme and tonemark. We then cycle through each permitted initial cluster, combining each with every rhyme and tonemark. This generates 17,364 syllables.
 
-### S'gaw ###
-For S'gaw, we run through the consonants, combining them with every vowel and tonemark. We then run through every permitted initial with medial consonant, and do the same with every vowel and tonemark. Tall Aa does not combine with tonemarks so is cycled in a different way. This generates 3420 syllables.
+### Tai Khamti ###
+
+### Tai Aiton and Phake ###
+
+### Tai Laing / Shan Ni ###
+
+### Rumai Palaung / Ta'ang ###
+Here we cycle through every initial consonant with every syllable rhyme (including tonemarks), and then repeat with initial clusters. This produces 35,916 syllables.
 
 ## [Collisions](https://github.com/ohbendy/Myanmar-font-resources/blob/master/Collisions.md)
 A list of cluster pairs that cannot be handled by spacing alone, useful for testing collisions in your Burmese font. As so many syllables have above- and below-base elements that stick out further than the base letter, we need to add contextual kerning rules to ensure such collisions are taken care of. 
