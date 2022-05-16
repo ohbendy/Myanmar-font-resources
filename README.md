@@ -49,7 +49,7 @@ This notes the glyphs variations needed for some of the languages of Burma.
 
 ## [Generate syllables](https://github.com/ohbendy/Myanmar-font-resources/tree/master/Generate%20syllables.py)
 Python scripts for checking that glyphs are interacting correctly, currently just for Burmese and Mon languages, others can be added.
-First we categorise each character or sequence, then analyse which permutations of consonant (or consonant cluster), medial, vowel, final consonant and tonemark are possible within each orthography. Unfortunately many of these scripts are based on incomplete, ambiguous or incompatible sources, but at least it's a start with helping to proof fonts supporting those languages. Hopefully more info will come to light. Altogether these scripts will generate 1,090,483 syllables; here they are broken down by language.
+First we categorise each character or sequence, then analyse which permutations of consonant (or consonant cluster), medial, vowel, final consonant and tonemark are possible within each orthography. Unfortunately many of these scripts are based on incomplete, ambiguous or incompatible sources, but at least it's a start with helping to proof fonts supporting those languages. Hopefully more info will come to light. Altogether these scripts will generate 1,090,849 syllables; here they are broken down by language.
 
 ### Burmese ###
 For Burmese, consonants includes just the base consonants used for Burmese language. Rhymes includes all possible syllable endings (vowel or vowel + final consonant, with or without tonemarks). (Though the round -aa and tall -aa are used with different bases, we test both with all consonants.) Medials includes each of the four Burmese medial letters (medialYa, medialRa, medialWa and medialHa) and the seven possible combinations of those. Kinzi contains the single sequence 1004 103A 1039, which can be added to any syllable.
@@ -89,7 +89,7 @@ For Shan language, we cycle through each Shan consonant (not currently including
 For Khamti, we combine each consonant with each vowel and tonemark, and then each consonant with each medial and vowel and tonemark. This makes 12,358 syllables.
 
 ### Tai Aiton and Phake ###
-Here, we cycle through each consonant, combining with each rhyme (vowel or vowel + final) and then repeat with each of the two medials. This generates 2318 syllables.
+Here, we cycle through each consonant, combining with each rhyme (vowel or vowel + final) and then repeat with each of the two medials. This generates 2684 syllables.
 
 ### Tai Laing / Shan Ni ###
 For Tai Laing, we combine each consonant with each rhyme and tonemark, and then repeat with initial clusters in place of consonants. This produces 20,668 syllables.
