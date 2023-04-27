@@ -1,4 +1,4 @@
-A list of designers working with Burmese fonts
+A list of designers working with Burmese fonts:
 
 - [Bama Fonts ဘားမားဖောင့်](https://www.facebook.com/profile.php?id=100083341562415)
 - [Khmer Type (Danh Hong)](https://github.com/orgs/khmertype/repositories)
