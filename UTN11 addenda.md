@@ -183,7 +183,7 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
 Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in contrast to the S'gaw orthography listed in UTN11 which is the Christian S'gaw). Letalanyah is based on the Burmese alphabet but uses five extra (unencoded) letters to represent sounds that don't occur in Burmese, and also the medial La (u+1060). See [Kato (2023) "Letalanyah: A Buddhist writing system of S'gaw Karen"](http://user.keio.ac.jp/~kato/Letalanyah.pdf)
 
-**Taung You (တောင်ရိုး)**
+**Taung Yoe (တောင်ရိုး)**
 
 [Taung Yoe](https://en.wikipedia.org/wiki/Taungyo) is a language or dialect similar to Rakhine (Arakanese), Intha and Tavoyan (Dawei) spoken in the Eastern regions of Burma. Its orthography adds what looks like a tonemark (unencoded) in the shape of a left curly quote.
 
