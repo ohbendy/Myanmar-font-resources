@@ -168,8 +168,13 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
 ---
 
-# Extras #
+# Additional languages #
 
-**Letalanyah**
+**Letalanyah (ပဂညံ/လေလ်တလဒ်ညသ်)**
 
 Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in contrast to the S'gaw orthography listed in UTN11 which is the Christian S'gaw). Letalanyah is based on the Burmese alphabet but uses five extra (unencoded) letters to represent sounds that don't occur in Burmese, and also the medial La (u+1060). See [Kato (2023) "Letalanyah: A Buddhist writing system of S'gaw Karen"](http://user.keio.ac.jp/~kato/Letalanyah.pdf)
+
+**Khami (ခမိဖတ်စာ) ISO cnk/cek**
+
+Khami is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three consonants and a tonemark.
+![Khumi consonants](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/90c5f98e-cdcb-43dc-a8d6-7e32249eafcc)
