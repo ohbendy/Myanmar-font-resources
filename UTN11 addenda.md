@@ -178,3 +178,10 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 Khami is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three consonants and a tonemark.
 ![Khumi consonants](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/90c5f98e-cdcb-43dc-a8d6-7e32249eafcc)
+
+**Taung You (တောင်ရိုး)**
+
+[Taung Yoe](https://en.wikipedia.org/wiki/Taungyo) is a language or dialect similar to Rakhine (Arakanese), Intha and Tavoyan (Dawei) spoken in the Eastern regions of Burma. Its orthography adds what looks like a tonemark in the shape of a left curly quote.
+
+![Taung Yoe](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/9c63c51b-8310-49c1-9bc5-39fd8716861a)
+
