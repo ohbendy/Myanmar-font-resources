@@ -176,7 +176,7 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 **Khami (ခမိဖတ်စာ) ISO cnk/cek**
 
-Khami is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three consonants and a tonemark.
+[Khami](https://en.wikipedia.org/wiki/Khumi_language) is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three consonants and a tonemark.
 ![Khumi consonants](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/90c5f98e-cdcb-43dc-a8d6-7e32249eafcc)
 
 **Taung You (တောင်ရိုး)**
