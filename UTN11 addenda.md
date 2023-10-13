@@ -169,6 +169,7 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 ---
 
 # Additional languages #
+(updated 13 October 2023)
 
 **Letalanyah (ပဂညံ/လေလ်တလဒ်ညသ်)**
 
