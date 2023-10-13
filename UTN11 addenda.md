@@ -187,6 +187,8 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
 Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in contrast to the S'gaw orthography listed in UTN11 which is the Christian S'gaw). Letalanyah is based on the Burmese alphabet but uses five extra (unencoded) letters to represent sounds that don't occur in Burmese, and also the medial La (u+1060). See [Kato (2023) "Letalanyah: A Buddhist writing system of S'gaw Karen"](http://user.keio.ac.jp/~kato/Letalanyah.pdf)
 
+![Letalanyah](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/af7f8ed3-0844-49ae-a310-fa786fa2e13a)
+
 ---
 
 **Taung Yoe (တောင်ရိုး)**
