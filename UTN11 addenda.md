@@ -192,7 +192,7 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 ---
 
-**Taung Yoe (တောင်ရိုး)**
+**Taung Yoe (တောင်ရိုး/တွေင်ရွိုး)**
 
 [Taung Yoe](https://en.wikipedia.org/wiki/Taungyo) is a language or dialect similar to Rakhine (Arakanese), Intha and Tavoyan (Dawei) spoken in the Eastern regions of Burma. Its orthography adds what looks like a tonemark (unencoded) in the shape of a left curly quote.
 
