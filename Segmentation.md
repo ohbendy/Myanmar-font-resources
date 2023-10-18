@@ -21,6 +21,7 @@ Cursoring works differently in each app, ! shows valid positions the cursor can 
 
 ## Backspacing ##
 Firefox/TextEdit/Safari/Pages/Chrome: one backspace removes one character.
+
 TextMate: one backspace removes a whole cluster !အ!ခြား!တို!င်း!ပြ!ည်!မှ!လ!ည်း!ကော!င်း! 
 
 ## Selecting text ##
