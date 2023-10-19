@@ -1,4 +1,4 @@
-Current (18 October 2023) segmentation behaviour in different apps is extremely unpredictable. Here's what I found with the test string: အခြားတိုင်းပြည်မှလည်းကောင်း 
+Current (18 October 2023) segmentation behaviour in different apps is extremely unpredictable. The test string is အခြားတိုင်းပြည်မှလည်းကောင်း and the recommended breakpoints are ·အခြား·တိုင်း·ပြည်·မှ·လည်းကောင်း· 
 
 ## Linebreaking ##
 Linebreaks get added at each · when the column width is set to a minimum
