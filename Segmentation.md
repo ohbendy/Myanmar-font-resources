@@ -17,12 +17,12 @@ Cursoring works differently in each app, · shows valid positions the cursor can
 
 | App              | Behaviour                                     | Notes |
 |------------------|-----------------------------------------------|-------|
-| Chrome           | ·အ·ခြ·ာ·း·တို·င်·း·ပြ·ည်·မှ·လ·ည်·း·ကေ·ာ·င်·း· |       |
-| Firefox          | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             |       |
-| Pages            | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              |       |
-| Safari           | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              |       |
-| TextEdit         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             |       |
-| TextMate         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             |       |
+| Chrome           | ·အ·ခြ·ာ·း·တို·င်·း·ပြ·ည်·မှ·လ·ည်·း·ကေ·ာ·င်·း· | Cursor can be placed between spacing characters except medials and 1031|
+| Firefox          | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             | Cursor can be placed between grapheme clusters |
+| Pages            | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              | Cursor can be placed between grapheme clusters |
+| Safari           | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              | Cursor can be placed between grapheme clusters |
+| TextEdit         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             | Cursor can be placed between grapheme clusters |
+| TextMate         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             | Cursor can be placed between grapheme clusters |
 
 
 ## Backspacing ##
