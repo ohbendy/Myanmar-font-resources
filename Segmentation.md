@@ -10,6 +10,7 @@ Linebreaks get added at each · when the column width is set to a minimum
 | Pages          | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·                 |       |
 | Safari         | ·အ·ခြ·ာ·း·တ·ို·င်း·ပြ·ည·်·မ·ှ·လ·ည·်း·ကေ·ာ·င်း· |       |
 | TextEdit       | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·                 |       |
+| TextMate       | Burmese text doesn't wrap                       |       |
 
 ## Cursoring ##
 Cursoring works differently in each app, · shows valid positions the cursor can be clicked or moved with arrow keys:
@@ -21,6 +22,7 @@ Cursoring works differently in each app, · shows valid positions the cursor can
 | Pages            | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              |       |
 | Safari           | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              |       |
 | TextEdit         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             |       |
+| TextMate         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             |       |
 
 
 ## Backspacing ##
