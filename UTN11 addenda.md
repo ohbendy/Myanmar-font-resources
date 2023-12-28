@@ -194,7 +194,7 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 **Taung Yoe (တောင်ရိုး/တွေင်ရွိုး)**
 
-[Taung Yoe](https://en.wikipedia.org/wiki/Taungyo) is a language or dialect similar to Rakhine (Arakanese), Intha and Tavoyan (Dawei) spoken in the Eastern regions of Burma. Its orthography adds what looks like a tonemark (unencoded) in the shape of a left curly quote.
+[Taung Yoe](https://en.wikipedia.org/wiki/Taungyo) is a language or dialect similar to Rakhine (Arakanese), Intha and Tavoyan (Dawei) spoken in the Eastern regions of Burma. Its orthography adds a diacritic in the shape of a left curly quote. It is likely that ̒ U+0312 "COMBINING TURNED COMMA ABOVE" is a suitable encoded character, though the comma preferably has an open counter in Taung Yoe. It's not fully described what this diacritic signifies, but Pat McCormick suggested it marks letters with a different sound value than the regular Burmese default (the letter should be pronounced in the Taung Yoe way, not the Burmese way). We can see two commas above the ဃ in the first row of this table:
 
 ![Taung Yoe](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/9c63c51b-8310-49c1-9bc5-39fd8716861a)
 
