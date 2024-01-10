@@ -6,12 +6,12 @@ Note this analysis is based on the handful of resources I've managed to pull tog
 
 | | Medial Wa | Medial Ha | Dot Below |
 |---:|:---:|:---:|:---:|
-|Standard Burmese | Round (triangular in some older texts) | Vertical | Right (left in some older texts)|
+|Standard Burmese | Round (triangular in older texts) | Vertical | Right (left in older texts)|
 | Mon | Round (triangular also found) | Vertical | Not used |
-|S'gaw Karen|Triangular|Sloped (vertical also found)|Left|
+|S'gaw Karen|Triangular|Vertical (sloped in older texts)|Left|
 |Western Pwo Karen|Triangular||Left (right also found)|
 |Eastern Pwo Karen|Triangular (round also found)|Vertical|Right|
-|Pa'O Karen|Triangular (round also found)|Sloped (vertical also found)|Right|
+|Pa'O Karen|Triangular (round also found)|Vertical (sloped in older texts)|Right|
 |Geba Karen|Triangular|Vertical||
 |Kayah|Triangular|Sloped (vertical also found)|[not used]|
 |Asho Chin|Triangular|Sloped|Left|
