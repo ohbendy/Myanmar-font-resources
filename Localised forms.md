@@ -9,7 +9,7 @@ Note this analysis is based on the handful of resources I've managed to pull tog
 |Standard Burmese | Round (triangular in older texts) | Vertical | Right (left in older texts)|
 | Mon | Round (triangular also found) | Vertical | Not used |
 |S'gaw Karen|Triangular|Vertical (sloped in older texts)|Left|
-|Western Pwo Karen|Triangular||Left (right also found)|
+|Western Pwo Karen|Triangular|Vertical|Left (right also found)|
 |Eastern Pwo Karen|Triangular (round also found)|Vertical|Right|
 |Pa'O Karen|Triangular (round also found)|Vertical (sloped in older texts)|Right|
 |Geba Karen|Triangular|Vertical||
