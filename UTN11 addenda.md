@@ -54,7 +54,7 @@ p36 Not clear why medial Ya and subjoined Ya are both listed. The subjoined vers
 
 p36 in vowels, uni1033 is annotated as 105C. 1033 is correct.
 
-p37 uni106E ၮ is equally possible as uni100F ဏ; it's not clear to me why 106E was encoded separately, it's just a stylistic difference and both styles are found in Standard Burmese and in Karen.
+p37 uni106E ၮ is equally possible as uni100F ဏ; it's not clear to me why 106E was encoded separately, it's just a stylistic difference and both styles are found in Standard Burmese and in Karen. If two codepoints are proposed to be used for the same letter, Unicode should probably assign equivalence so that search and sort treat them the same way.
 
 ---
 
