@@ -19,8 +19,8 @@ Cursoring works differently in each app, · shows valid positions the cursor can
 |------------------|-----------------------------------------------|-------|
 | Chrome           | ·အ·ခြ·ာ·း·တို·င်·း·ပြ·ည်·မှ·လ·ည်·း·ကေ·ာ·င်·း· | Cursor can be placed between spacing characters except medials and 1031|
 | Firefox          | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             | Cursor can be placed between grapheme clusters |
-| Pages            | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              | Cursor can be placed between grapheme clusters |
-| Safari           | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              | Cursor can be placed between grapheme clusters |
+| Pages            | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              | Cursor can be placed between grapheme clusters except after asat |
+| Safari           | ·အ·ခြား·တို·င်း·ပြ·ည်မှ·လ·ည်း·ကော·င်း·              | Cursor can be placed between grapheme clusters except after asat |
 | TextEdit         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             | Cursor can be placed between grapheme clusters |
 | TextMate         | ·အ·ခြား·တို·င်း·ပြ·ည်·မှ·လ·ည်း·ကော·င်း·             | Cursor can be placed between grapheme clusters |
 
