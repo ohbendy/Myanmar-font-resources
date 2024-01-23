@@ -1,9 +1,75 @@
 ## Version 4 (13/12/2012) ##
 
-to follow
+p1 Geba, a Karen language, is not included. It is based on the other Karen orthographies (S'gaw, Pwo, Pa'O) with the addition of one extra character, uni1071 ၱ .
 
 ---
 
+**Pali/Sanskrit**
+
+p28 Note the sha ၐ uni1050 and ssa ၑ uni1051 have open rings inside the bowls in the Padauk font used here. The Unicode chart has simple dots, which will lead to confusion with Tai Laing letter Ba ꧽ uniA9FD.
+
+p28 Note that uni1056 and uni1057 should be shown with dotted circles as they are dependent signs that join visually to the base consonant.
+
+p28 Burmese Sanskrit conjunct tables show quite a lot of special ligature forms which fontmakers could optionally include.
+
+p29 rapha -> r*e*pha
+
+---
+
+**Arakanese**
+
+p30 Arakenese -> Arak*a*nese
+
+We find quite a lot of [different letterforms](https://www.unicode.org/L2/L2020/20163-arakanese-mon.pdf) in Arakanese manuscripts which fontmakers may wish to use in place of the Burmese letterforms.
+
+---
+
+**Mon**
+
+p31 Mon in Thailand use [alternate forms](https://www.unicode.org/L2/L2020/20163-arakanese-mon.pdf) of ဆ ဇ ဈ ဋ ဌ ဍ န ရ သ ဠ အ ဥု ာ ၊ ။ ၉ which fontmakers may wish to use in place of the Burmese letterforms. Note also the Thai Mon do not always use the Tall Aa but may use a round aa with a dip in the top to differentiate က from ဂ + ာ.
+
+p31 Mon letter BBA ၜ uni105C can have a dot instead of a ring, depending on the design of the font.
+
+p31 Note also Great Sa ဿ uni103F is not used in Mon; instead the stacked form သ္သ is used.
+
+p31 The sequence uni102C/102B followed by uni1032 follows the same logic as uni102C/102B followed by uni1036, i.e the 1032 or 1036 appears above the 102C or preceding the 102B carried on the base consonant of the cluster. Fonts need to reorder both 1032 and 1036 before a tall Aa to achieve this.
+
+---
+
+**Eastern Pwo**
+
+p36 should include the consonants Ywa ၯ uni106F and Ghwa ၰ uni1070. The leg is normally centred below the right-hand bowl.
+
+p36 Numerals for Eastern Pwo are now encoded in the range uni116DA–uni116E3.
+
+---
+
+**Pa'O**
+
+p37 Numerals for Pa'O are now encoded in the range uni116D0–116D9.
+
+---
+
+**Kayah**
+
+p38 Kayah seemingly prefers a triangular medialWa and a sloped medialHa.
+
+p38 Kayah also requires the inclusion of punctuation sign Cwi ꤮ uniA92E.
+
+---
+
+**Shan**
+
+p41 The left bowl of Nnya ၺ uni107A may optionally have a loop.
+
+p41 The leg of Fa ၾ uni107E is best kept away from the right bowl where other marks need to sit. A leg descending from the centre of the letter and sloping to the left is a good solution.
+
+p41 The shape of Ha ႁ uni1081 follows the Unicode chart, but this is not a standard form. This is preferable:
+
+<img alt="Shan letter Ha" src="https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/1800fe8b-02c7-4c15-8b1e-30b68ef2485c">
+
+
+ 
 ## Version 5 (02/07/2020) ##
 
 ---
