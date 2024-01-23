@@ -1,5 +1,7 @@
 ## Version 4 (13/12/2012) ##
 
+---
+
 p1 Geba, a Karen language, is not included. It is based on the other Karen orthographies (S'gaw, Pwo, Pa'O) with the addition of one extra character, uni1071 ၱ .
 
 ---
@@ -68,7 +70,7 @@ p41 The shape of Ha ႁ uni1081 follows the Unicode chart, but this is not a sta
 
 <img alt="Shan letter Ha" src="https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/1800fe8b-02c7-4c15-8b1e-30b68ef2485c">
 
-
+---
  
 ## Version 5 (02/07/2020) ##
 
