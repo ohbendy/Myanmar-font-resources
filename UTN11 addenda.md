@@ -71,6 +71,18 @@ p41 The shape of Ha ႁ uni1081 follows the Unicode chart, but this is not a sta
 <img alt="Shan letter Ha" src="https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/1800fe8b-02c7-4c15-8b1e-30b68ef2485c">
 
 ---
+
+**Khamti Shan**
+
+p46 The language and the people are normally called Tai Khamti. 
+
+p46 ꩮ uniAA6E was wrongly named Khamti letter HHA in Unicode. It is the Pali retroflex LLA.
+
+p46 Khamti digits [are attested](http://www.fontpad.co.uk/Documents/Proposal_for_Pwo_and_PaO_numerals.pdf), but have not yet been encoded.
+
+p47 The reduplication sign ꩰ AA70 seems to be a recent invention of the Khamti Cultural Association and has been encoded atomically as a spacing glyph that follows a syllable that is to be spoken twice. In practice, reduplicated syllables are written with a doubled vowel sign or doubled asat (which seems to be what AA70 represents). For this visual appearance, we can simply store the vowel or asat twice — or three or four times for tripled or quadrupled marks. Reduplicated vowels attested include 1083, 102E, 1030, 1032 and 1036). Supporting both ways allows the user to choose either the reduplication sign or the doubled vowels.
+
+---
  
 ## Version 5 (02/07/2020) ##
 
