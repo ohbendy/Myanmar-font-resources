@@ -92,12 +92,12 @@ p49 The consonant list is missing Sa ꩬ AA6C.
 
 p49 In the 'subjoined consonants' list, AA60 is a Shan letter which is not listed in the 'consonants' section. It was probably meant to be Ca ꩡ AA61. Stephen Morey also suggests Nga င 1004, Nya ၺ 107A, Na AA6B, Ma မ 1019, Sa ꩬ AA6C can be subjoined.
 
-p49 In the diphthongs list, the au vowel ꧥ  A9E5 has been misidentified as the asat ်  103A, and I believe the medial Na ၞ 105E in the last sequence is a misidentification of medial Ma ၟ 105F (though it is analysed as a medial Wa phonetically). Thus we have: 
+p49 In the diphthongs list, the au vowel ꧥ  A9E5 has been misidentified as the asat ်  103A, and I believe the medial Na ၞ 105E in the last sequence is a misidentification of Shan medial Wa ႂ  1082 (it is analysed as a medial Wa phonetically). Thus we have: 
 
-| ံ | ꧥံ | ႝ | ွႝ | ွေ | ိုႜ | ွꧥ | ၟꧥ (or sometimes just ꧥ  ) | 
+| ံ | ꧥံ | ႝ | ွႝ | ွေ | ိုႜ | ွꧥ | ႂꧥ (or sometimes just ꧥ  ) | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | -am | -ɛm | -ai | -ɔi | -oi (Phake only) | -ui | -au | -aɯ |
-|1036|A9E5 1036|109D|103D 109D|103D 1031|102D 102F 109C|103D A9E5|105F A9E5 (or A9E5)|
+|1036|A9E5 1036|109D|103D 109D|103D 1031|102D 102F 109C|103D A9E5|1082 A9E5 (or A9E5)|
 
 ---
  
