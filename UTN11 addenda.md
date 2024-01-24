@@ -95,7 +95,7 @@ p49 In the diphthongs list, the au vowel ꧥ  A9E5 has been misidentified as the
 | ံ | ꧥံ | ႝ | ွႝ | ွေ | ိုႜ | ွꧥ | ၟꧥ (or sometimes just ꧥ  ) | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | -am | -aum | -ai | -ɔi | -oi (Phake only) | -ui | -au | -aɯ |
-|1036|A9E5 1036|109D|103D 109D|103D 1031|102D 102F 109C|103A 103D|103A 105E (or A9E5)|
+|1036|A9E5 1036|109D|103D 109D|103D 1031|102D 102F 109C|103D A9E5|105F A9E5 (or A9E5)|
 
 ---
  
