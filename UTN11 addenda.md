@@ -86,6 +86,8 @@ p47 The reduplication sign ꩰ AA70 seems to be a recent invention of the Khamti
 
 **Aiton & Phake**
 
+p49 It's a bit confusing to have Aiton and Phake presented in a Khamti style.
+
 p49 The consonant list is missing Sa ꩬ AA6C.
 
 p49 In the 'subjoined consonants' list, AA60 is a Shan letter which is not listed in the 'consonants' section. It was probably meant to be Ca ꩡ AA61. Stephen Morey also suggests Nga င 1004, Nya ၺ 107A, Na AA6B, Ma မ 1019, Sa ꩬ AA6C can be subjoined.
