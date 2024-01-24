@@ -83,6 +83,21 @@ p46 Khamti digits [are attested](http://www.fontpad.co.uk/Documents/Proposal_for
 p47 The reduplication sign ꩰ AA70 seems to be a recent invention of the Khamti Cultural Association and has been encoded atomically as a spacing glyph that follows a syllable that is to be spoken twice. In practice, reduplicated syllables are written with a doubled vowel sign or doubled asat (which seems to be what AA70 represents). For this visual appearance, we can simply store the vowel or asat twice — or three or four times for tripled or quadrupled marks. Reduplicated vowels attested include 1083, 102E, 1030, 1032 and 1036). Supporting both ways allows the user to choose either the reduplication sign or the doubled vowels.
 
 ---
+
+**Aiton & Phake**
+
+p49 The consonant list is missing Sa ꩬ AA6C.
+
+p49 In the 'subjoined consonants' list, AA60 is a Shan letter which is not listed in the 'consonants' section. It was probably meant to be Ca ꩡ AA61. Stephen Morey also suggests Nga င 1004, Nya ၺ 107A, Na AA6B, Ma မ 1019, Sa ꩬ AA6C can be subjoined.
+
+p49 In the diphthongs list, the au vowel ꧥ  A9E5 has been misidentified as the asat ်  103A, and I believe the medial Na ၞ 105E in the last sequence is a misidentification of medial Ma ၟ 105F (though it is analysed as a medial Wa phonetically). Thus we have: 
+
+| ံ | ꧥံ | ႝ | ွႝ | ွေ | ိုႜ | ွꧥ | ၟꧥ (or sometimes just ꧥ  ) | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| -am | -aum | -ai | -ɔi | -oi (Phake only) | -ui | -au | -aɯ |
+|1036|A9E5 1036|109D|103D 109D|103D 1031|102D 102F 109C|103A 103D|103A 105E (or A9E5)|
+
+---
  
 ## Version 5 (02/07/2020) ##
 
