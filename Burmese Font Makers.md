@@ -11,4 +11,4 @@ A list of designers working with Burmese fonts:
 - [Yamin Fonts ယမင်း](https://www.facebook.com/YAMIN-fonts-706839116383065/)
 - [Zinbo Design](https://www.facebook.com/zinbo.design)
 
-[Art House Mandalay](https://www.facebook.com/arthouseprintingmdy) designed many Burmese fonts which used to be available only on DVD. I couldn't find a complete catalogue but the fonts are still very popular despite being ASCII encoded.
+[Art House Mandalay](https://www.facebook.com/arthouseprintingmdy) (U Zaw Win Myat) designed many Burmese fonts which used to be available only on DVD. I couldn't find a complete catalogue but the fonts are still very popular despite being ASCII encoded.
