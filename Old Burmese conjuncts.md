@@ -1,6 +1,6 @@
  # Old Burmese conjuncts #
 
-This list was compiled by @Sovichet from a corpus of Old Burmese inscriptions. Note that these inscriptions contain some passages in Pali and perhaps Sanskrit, and thus some conjuncts that are not strictly permissible in Old Burmese itself. Consonants with medial consonants are included here for completeness.
+This list was extracted by @Sovichet from a corpus of Old Burmese inscriptions (https://zenodo.org/records/1203687 and https://zenodo.org/records/1203709). Note that these inscriptions contain some passages in Pali and perhaps Sanskrit, and thus some conjuncts that are not strictly permissible in Old Burmese itself. Consonants with medial consonants are included here for completeness.
 
 Old Burmese uses stacking not just for conjuncts, but to chain syllables, so technically not all the following are true conjuncts. For shaping behaviour, note some inscriptions differentiate syllable-chaining stacks from true conjuncts by retaining the asat (်) above the stack. So တ္တွ် represents a final -တ followed by a syllable starting with တွ. Unicode permits the asat only after a conjunct (so ထ + ် + ္တ is not allowed).
 
