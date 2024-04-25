@@ -1,4 +1,4 @@
-Old Burmese conjuncts
+ # Old Burmese conjuncts #
 
 This list was compiled by @Sovichet from a corpus of Old Burmese inscriptions. Note that these inscriptions contain some passages in Pali and perhaps Sanskrit, and thus some conjuncts that are not strictly permissible in Old Burmese itself. Consonants with medial consonants are included here for completeness.
 
