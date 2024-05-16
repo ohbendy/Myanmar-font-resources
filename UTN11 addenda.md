@@ -295,4 +295,4 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 ![Taung Yoe](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/9c63c51b-8310-49c1-9bc5-39fd8716861a)
 
-If using U+0312, we need to make sure sequences like က̒ိ (U+1000 U+0312 U+102D) are handled by the font. Since the comma diacritic modifies the consonant, it would seem logical to store it directly after the consonant, before any dependent vowel sign.
+If using U+0312, we need to make sure sequences like က̒ိ (U+1000 U+0312 U+102D) are handled by the font. Since the comma diacritic modifies the consonant, it would seem logical to store it directly after the consonant, before any dependent vowel sign; however, Harfbuzz doesn't permit u+0312 to come between a Myanmar base and mark, so we advise storing the comma diacritic at the end of the sequence and letting the font reorder it to the correct visual appearance.
