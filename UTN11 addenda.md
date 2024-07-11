@@ -296,3 +296,12 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 ![Taung Yoe](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/9c63c51b-8310-49c1-9bc5-39fd8716861a)
 
 If using U+0312, we need to make sure sequences like က̒ိ (U+1000 U+0312 U+102D) are handled by the font. Since the comma diacritic modifies the consonant, it would seem logical to store it directly after the consonant, before any dependent vowel sign; however, Harfbuzz doesn't permit u+0312 to come between a Myanmar base and mark, so we advise storing the comma diacritic at the end of the sequence and letting the font reorder it to the correct visual appearance.
+
+---
+
+**Tai Sar (Tai Soh)**
+
+Next to no information about this Tai group in Kachin State. They seem to use a reformed/revised version of the Lik Tai script, with many unique letterforms that could be encoded.
+
+![Tai Sar image](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/6e4b4ea4-37d4-4240-a23d-e474e4b4b83e)
+
