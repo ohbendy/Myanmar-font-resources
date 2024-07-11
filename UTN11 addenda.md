@@ -266,7 +266,7 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 ---
 
 # Additional languages #
-(updated 13 October 2023)
+(updated 11 July 2024)
 
 **Jingpho (ဈိာင်ဖေါစ်) ISO kac**
 [Jingpho](https://en.wikipedia.org/wiki/Jingpho_language) or Kachin has a Latin orthography and a Burmese orthography, which seems to require no special extra characters.
