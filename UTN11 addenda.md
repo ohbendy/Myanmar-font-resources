@@ -299,7 +299,7 @@ If using U+0312, we need to make sure sequences like က̒ိ (U+1000 U+0312 U+1
 
 ---
 
-**Tai Sar (Tai Soh)**
+**Tai Sar (Tai Soh, Maingtha)**
 
 Next to no information about this Tai group in Kachin State. They seem to use a reformed/revised version of the Lik Tai script, with many unique letterforms that could be encoded.
 
