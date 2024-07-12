@@ -266,7 +266,13 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 ---
 
 # Additional languages #
-(updated 11 July 2024)
+(updated 12 July 2024)
+
+**Danu (ဓနု) ISO dnv**
+According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language) script was invented in 2013–2014 but its use remains controversial. Uncertain whether Danu should be encoded into the existing Burmese ranges or as a unique script, since some of the letters match Burmese, some are very different, and some conflict with Burmese (e.g ဎ = ပ).
+![Danu](https://github.com/user-attachments/assets/c95e1266-00a6-4e7b-95dd-b32c2d498ce4)
+
+---
 
 **Jingpho (ဈိာင်ဖေါစ်) ISO kac**
 [Jingpho](https://en.wikipedia.org/wiki/Jingpho_language) or Kachin has a Latin orthography and a Burmese orthography, which seems to require no special extra characters.
@@ -286,6 +292,14 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in contrast to the S'gaw orthography listed in UTN11 which is the Christian S'gaw). Letalanyah is based on the Burmese alphabet but uses five extra (unencoded) letters to represent sounds that don't occur in Burmese, and also the medial La (u+1060). See [Kato (2023) "Letalanyah: A Buddhist writing system of S'gaw Karen"](http://user.keio.ac.jp/~kato/Letalanyah.pdf)
 
 ![Letalanyah](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/af7f8ed3-0844-49ae-a310-fa786fa2e13a)
+
+---
+
+**Southern Pa'O**
+
+A couple of extra characters — a diagonal diacritic below and a triple dot tonemark — need encoding for Southern Pa'O, I'm discussing with Alys Boote-Cooper to get more info.
+
+![Southern Pa'O](https://github.com/user-attachments/assets/cc5db0a1-7ef4-42b0-8030-f953682f2f1f)
 
 ---
 
