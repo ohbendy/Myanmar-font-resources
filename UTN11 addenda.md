@@ -270,6 +270,7 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
 **Danu (ဓနု) ISO dnv**
 According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language) script was invented in 2013–2014 but its use remains controversial. Uncertain whether Danu should be encoded into the existing Burmese ranges or as a unique script, since some of the letters match Burmese, some are very different, and some conflict with Burmese (e.g ဎ = ပ).
+
 ![Danu](https://github.com/user-attachments/assets/c95e1266-00a6-4e7b-95dd-b32c2d498ce4)
 
 ---
