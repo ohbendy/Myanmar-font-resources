@@ -284,7 +284,7 @@ According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language
 
 **Khami (ခမိဖတ်စာ) ISO cnk/cek**
 
-[Khami or Khumi](https://en.wikipedia.org/wiki/Khumi_language) is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three (unencoded) consonants and a tonemark.
+[Khami or Khumi](https://en.wikipedia.org/wiki/Khumi_language) is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three (unencoded) consonants and a tonemark. It's also notable that the normal belowbase ုand  ူ are not used, only the postbase forms.
 
 ![Khumi consonants](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/90c5f98e-cdcb-43dc-a8d6-7e32249eafcc)
 
