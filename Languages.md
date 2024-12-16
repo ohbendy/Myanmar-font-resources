@@ -19,7 +19,7 @@ In cases where a script has different variants, BCP47 subtags can be used to spe
 |Eastern Pwo Karen, monastic orthography|1m|KJP_||||kjp-Mymr-x-phlouyu|
 |Eastern Pwo Karen, Buddhist orthography||KJP_||||kjp-Mymr-x-thiyon||
 |Eastern Pwo Karen, Christian orthography||KJP_||||kjp-Mymr-x-chekhi||
-|Geba Karen|40k|(KRN_)*|||kvq||kvq-x-hbot-4b565120|
+|Geba Karen|40k|KVQ_|||kvq||kvq-x-hbot-4b565120|
 |Intha|100-200k||||int||
 |Jingpho [Kachin]|1m|||kac|kac|||
 |Karen||KRN_|||kar||
@@ -39,7 +39,7 @@ In cases where a script has different variants, BCP47 subtags can be used to spe
 |Shwe Palaung|All Palaung 560k|PLG_|||pll||
 |Tai Aiton|1500|AIO_|||aio||
 |Tai Khamti [Khamti Shan]|13k|KHT_|||kht||
-|Tai Khamyang| 50 |||| ksu, nrr ||
+|Tai Khamyang| 50 |KSU_||| ksu, nrr ||
 |Tai Phake|2000|PHK_|||phk||
 |Tai Turung|no longer spoken||||try|| 
 |Tavoyan|440k||||tvn||
