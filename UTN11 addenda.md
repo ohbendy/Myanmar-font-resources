@@ -80,8 +80,6 @@ p46 ꩱ uniAA71 is incorrect. Khamti Ga is ꩠ uniAA60.
 
 p46 ဂ uni1002 is incorrect. Khamti Gha is ၷ uni1077.
 
-p46 ꩡ uniAA61 is the wrong shape. Unicode chart needs to be updated with the correct glyph.
-
 p46 ꩤ uniAA64 is the wrong shape; it needs a loop on the left bowl. Unicode chart needs to be updated with the correct glyph.
 
 p46 ရ uni101B uses the dotted form, and it seems nowadays to prefer a shorter tail. If using variation selectors this should be reflected. I don't prefer using VS — that mechanism doesn't work for nonspacing characters like the vowel signs, and implementation is extremely unpredictable. For the dotted letterforms we can either consider it a font-level question (different fonts for Burmese and Khamti languages, with dots for Khamti) or using OpenType LOCL features to switch from default to dotted forms.
