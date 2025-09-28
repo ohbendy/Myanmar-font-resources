@@ -39,7 +39,7 @@ In cases where a script has different variants, BCP47 subtags can be used to spe
 |Shwe Palaung|All Palaung 560k|PLG_|||pll||
 |Tai Aiton|1500|AIO_|||aio||
 |Tai Khamti [Khamti Shan]|13k|KHT_|||kht||
-|Tai Khamyang| 50 |KSU_||| ksu, nrr ||
+|Tai Khamyang [Nora]| 50 |KSU_||| ksu, nrr ||
 |Tai Phake|2000|PHK_|||phk||
 |Tai Turung|no longer spoken||||try|| 
 |Tavoyan|440k||||tvn||
