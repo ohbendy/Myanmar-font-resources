@@ -20,6 +20,7 @@ In cases where a script has different variants, BCP47 subtags can be used to spe
 |Eastern Pwo Karen, Buddhist orthography||KJP_||||kjp-Mymr-x-thiyon||
 |Eastern Pwo Karen, Christian orthography||KJP_||||kjp-Mymr-x-chekhi||
 |Geba Karen|40k|KVQ_|||kvq||kvq-x-hbot-4b565120|
+|Htanaw [Danau, Kanaw]| 3k ||||dnu||
 |Intha|100-200k||||int||
 |Jingpho [Kachin]|1m|||kac|kac|||
 |Karen||KRN_|||kar||
