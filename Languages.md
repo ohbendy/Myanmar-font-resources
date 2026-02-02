@@ -46,9 +46,6 @@ In cases where a script has different variants, BCP47 subtags can be used to spe
 |Tavoyan|440k||||tvn||
 |Western Pwo Karen|210k|PWO_|||pwo||
 
-\* No tag currently exists for Geba Karen; KRN_ is the generic tag for Karen languages
-
-
 ## Languages that may in future be able to be written using Burmese Unicode ##
 
 These orthographies require further documentation and/or additional character encodings
