@@ -309,6 +309,12 @@ According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language
 
 ---
 
+**Htanaw or Danau (ထနော့) ISO dnu**
+
+[Htanaw/Danau](https://en.wikipedia.org/wiki/Danau_language) uses the standard Burmese character set, though uses some non-Burmese sequences. The orthography is still a work in progress and is documented [here](https://sites.google.com/view/htanawsar/home/htanaw-alphabet-%E1%80%91%E1%80%94%E1%80%A1%E1%80%80%E1%80%81%E1%80%9B%E1%80%99).
+
+---
+
 **Jingpho (ဈိာင်ဖေါစ်) ISO kac**
 
 [Jingpho](https://en.wikipedia.org/wiki/Jingpho_language) or Kachin has a Latin orthography and a Burmese orthography, which seems to require no special extra characters.
