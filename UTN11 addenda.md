@@ -52,9 +52,11 @@ p37 Numerals for Pa'O are now encoded in the range uni116D0–116D9.
 
 ---
 
-**Kayah**
+**Kayah/Karen Ni**
 
-p38 Kayah seemingly prefers a triangular medialWa and a sloped medialHa.
+Preferred name seems to be Karen Ni; Kayah is a Burmese label.
+
+p38 Kayah seemingly prefers a triangular medialWa and a sloped medialHa, though this is not a strict requirement.
 
 p38 Kayah also requires the inclusion of punctuation sign Cwi ꤮ uniA92E.
 
@@ -64,11 +66,17 @@ p38 Kayah also requires the inclusion of punctuation sign Cwi ꤮ uniA92E.
 
 p41 The left bowl of Nnya ၺ uni107A may optionally have a loop.
 
-p41 The leg of Fa ၾ uni107E is best kept away from the right bowl where other marks need to sit. A leg descending from the centre of the letter and sloping to the left is a good solution.
+p41 The leg of Fa ၾ uni107E is best kept away from the right bowl where other marks need to sit. A leg descending from the centre of the letter and sloping to the left is a good solution. Here's how that looks in Futura100 Myanmar:
 
-p41 The shape of Ha ႁ uni1081 follows the Unicode chart, but this is not a standard form. This is preferable:
+<img width="216" height="230" alt="Screenshot 2026-08-04 at 18 24 55" src="https://github.com/user-attachments/assets/def34bf4-47d1-4208-ae4c-c6ad59c52a49" />
+
+p41 The shape of Ha ႁ uni1081 follows the Unicode chart, but this is not a standard form (perhaps the glyph in the Unicode chart should be fixed). This is preferable:
 
 <img alt="Shan letter Ha" src="https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/1800fe8b-02c7-4c15-8b1e-30b68ef2485c">
+
+Alternatively it can be looped, here's Futura100 Myanmar:
+
+<img width="148" height="228" alt="Screenshot 2026-08-04 at 18 24 06" src="https://github.com/user-attachments/assets/8c620249-2cdd-45b5-a8f6-f34440e1f84e" />
 
 ---
 
@@ -76,23 +84,32 @@ p41 The shape of Ha ႁ uni1081 follows the Unicode chart, but this is not a sta
 
 p46 The language and the people are preferably called Tai Khamti rather than Khamti Shan. 
 
+This is the current (as of 2024) consonant inventory:
+<img width="960" height="1280" alt="01" src="https://github.com/user-attachments/assets/d51f0f9d-342e-4d2e-8554-fabd79364c4f" />
+
 p46 ꩱ uniAA71 is incorrect. Khamti Ga is ꩠ uniAA60.
 
 p46 ဂ uni1002 is incorrect. Khamti Gha is ၷ uni1077.
 
-p46 ꩤ uniAA64 is the wrong shape; it needs a loop on the left bowl. Unicode chart needs to be updated with the correct glyph.
+p46 ꩤ uniAA64 is the wrong shape; it needs a loop on the left bowl. Unicode chart probably needs to be updated with the correct glyph.
 
-p46 ရ uni101B uses the dotted form, and it seems nowadays to prefer a shorter tail. If using variation selectors this should be reflected. I don't prefer using VS — that mechanism doesn't work for nonspacing characters like the vowel signs, and implementation is extremely unpredictable. For the dotted letterforms we can either consider it a font-level question (different fonts for Burmese and Khamti languages, with dots for Khamti) or using OpenType LOCL features to switch from default to dotted forms.
+p46 ရ uni101B seems nowadays to prefer a shorter tail. Alternatively the loop may be reduced to a dot matching the other letters.
 
-p46 ꩮ uniAA6E was wrongly named Khamti letter HHA in Unicode. It is the Pali retroflex LLA.
+p46 ꩮ uniAA6E was wrongly named Khamti letter HHA in Unicode. It is the Pali retroflex LLA and has now been given an alias in Unicode (since 2020).
 
-p46 Khamti digits [are attested](http://www.fontpad.co.uk/Documents/Proposal_for_Pwo_and_PaO_numerals.pdf), but have not yet been encoded.
+p46 Khamti digits [are attested](http://www.fontpad.co.uk/Documents/Proposal_for_Pwo_and_PaO_numerals.pdf), but have not yet been encoded due to lack of attestations in real life communication. These (as of 2026) seem to also be undergoing revisions and we should wait until the glyphs have stabilised.
 
-p47 The reduplication sign ꩰ AA70 seems to be a recent invention of the Khamti Cultural Association and has been encoded atomically as a spacing glyph that follows a syllable that is to be spoken twice. In practice, reduplicated syllables are written with a doubled vowel sign or doubled asat (which seems to be what AA70 represents). For this visual appearance, we can simply store the vowel or asat twice — or three or four times for tripled or quadrupled marks. Reduplicated vowels attested include 1083, 102E, 1030, 1032 and 1036). Supporting both ways allows the user to choose either the reduplication sign or the doubled vowels.
+p47 The reduplication sign ꩰ AA70 seems to be a recent invention of the Khamti Cultural Association and has been encoded atomically as a spacing glyph that follows a syllable that is to be spoken twice. In practice, in manuscripts of all the Tai groups in NE India, reduplicated syllables are written with a doubled vowel sign or doubled asat (which seems to be what AA70 represents). For this visual appearance, we can simply store the vowel or asat twice — or three or four times for tripled or quadrupled marks, which also occur. Reduplicated vowels attested include 1083, 102E, 1030, 1032 and 1036). Fonts can support the reduplication sign (AA70) and the doubled vowel characters without conflict, letting users decide which presentation they prefer.
 
 ---
 
-**Aiton & Phake**
+**Tai Aiton & Tai Phake**
+
+Two more Tai groups using dotted scripts like Tai Khamti. Based on study of manuscripts, here's my current understanding of their character sets, with green highlights showing glyphs that differ from the Burmese forms or are not used in Burmese. Note AA61, 1010, AA6B, 1078 and AA7A differ between Tai Aiton and Tai Phake, though manuscripts show mixed styles:
+
+<img width="6231" height="2700" alt="Tai Aiton character set" src="https://github.com/user-attachments/assets/eeedf1dd-0726-4ed6-82b9-1688ae5c849b" />
+
+<img width="6231" height="2700" alt="Tai Phake character set" src="https://github.com/user-attachments/assets/edcdea8e-9d8a-4247-a579-5b219f3a1c0c" />
 
 p49 It's a bit confusing to have Aiton and Phake presented in a Khamti style.
 
@@ -125,7 +142,9 @@ p27 On the last line, medial La and medial Wa should stack vertically, not overl
 
 **Pali-Sanskrit**
 
-p28 uni1056 ◌ၖ and uni1057 ◌ၗ should probably have dotted circles as they are dependent vowels that join a base consonant just like uni102C ◌ာ.
+p28 uni1056 ◌ၖ and uni1057 ◌ၗ should probably have dotted circles as they are dependent vowels that join a base consonant just like uni102C ◌ာ. However, it's unclear where the glyphs shown in the Unicode chart for all vocalic characters originated (both independent and dependent forms), and they are unattested in the few Sanskrit manuscripts I have seen. Here are the attestations from three Sanskrit manuscripts, with the first column showing the typeforms I've interpreted or guessed from the unclear handwriting. The top row in each cell is the independent form and the bottom is the dependent form:
+
+<img width="3299" height="788" alt="Sanskrit vocalic letters" src="https://github.com/user-attachments/assets/a295d477-96c7-449e-aebc-ed34c1b52872" />
 
 ---
 
@@ -155,21 +174,21 @@ p34 What font mechanism is suggested to allow post-base forms of -u and -uu? ZWJ
 
 **Eastern Pwo Karen**
 
-p36 Not clear why medial Ya and subjoined Ya are both listed. The subjoined version doesn't appear in my resources.
+p36 Not clear why medial Ya and subjoined Ya are both listed. The subjoined version doesn't appear in my resources (though subjoined YA is not unheard of in Burmese and fonts should include it anyway)
 
 p36 in vowels, uni1033 is annotated as 105C. 1033 is correct.
 
-p37 uni106E ၮ is equally possible as uni100F ဏ; it's not clear to me why 106E was encoded separately, it's just a stylistic difference and both styles are found in Standard Burmese and in Karen. If two codepoints are proposed to be used for the same letter, Unicode should probably assign equivalence so that search and sort treat them the same way.
+p37 uni100F ဏ and uni106E ၮ are allographs in both Burmese and in Eastern Pwo Karen, either form can be used in both languages (Unicode might want to assign equivalence to these for search and sort). However one difference is that in Eastern Pwo, the subjoined DDA ဍ does not rotate as it does in Burmese orthography, so keeping the distinction between 100F and 106E is a useful way of triggering the distinct shaping expected in Eastern Pwo.
 
 ---
 
 **Pa'O Karen**
 
+Note the orthography described here is for Northern Pa'O language. Southern Pa'O (aka Kham Dom) uses a distinct orthography and characters [have been proposed to Unicode]([url](https://www.fontpad.co.uk/Documents/Kham_Dom_proposal.pdf)).
+
 p39 Medial Ha uni103E ◌ှ is also used.
 
 p39 Dotbelow ◌့ is mis-annotated as 0137, it should be 1037.
-
-p39 Tonemark uni108F ◌ႏ can optionally take the alternate style made of three dots stacked vertically.
 
 ---
 
@@ -212,11 +231,13 @@ p48 Further vowel sequences include:
 - 1031 1083 ေႃ
 - 103A ◌်
 
-p48 has -ai vowel uni1032 ◌ဲ annotated as uni1086, which is ◌ႆ Shan final -y.
+p48 has -ai vowel uni1032 ◌ဲ annotated as uni1086, which is ◌ႆ Shan final -y. The preferred form is shown here, we encoded it as 1032:
 
-p48 Khamti digits are attested but not yet encoded.
+<img width="5962" height="3074" alt="Screenshot 2026-08-04 at 19 16 02" src="https://github.com/user-attachments/assets/ace6ed31-77cd-4e09-81be-b8b21252cdfd" />
 
-p49 uses uni1032 for -ai vowel, but p48 suggests uni1086, unclear which to use.
+p48 As mentioned above, Khamti digits are attested but not yet encoded.
+
+p49 uses uni1032 for -ai vowel, as I have done, but this conflicts with 1086 stated on previous page.
 
 ---
 
@@ -239,6 +260,10 @@ The following are also used:
 ---
 
 **Tai Laing** (Endonym is Shan-Ni)
+
+My current understanding of Tai Laing is shown here:
+
+<img width="5956" height="3366" alt="Screenshot 2026-08-04 at 19 18 28" src="https://github.com/user-attachments/assets/8fd659f0-9ce4-49ca-8a4b-2c372bfdc9c9" />
 
 p53 uniA9EC ꧬ appears twice in the consonant inventory.
 
@@ -292,7 +317,7 @@ According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language
 
 **Khami (ခမိဖတ်စာ) ISO cnk/cek**
 
-[Khami or Khumi](https://en.wikipedia.org/wiki/Khumi_language) is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three (unencoded) consonants and a tonemark. It's also notable that the normal belowbase ုand  ူ are not used, only the postbase forms.
+[Khami or Khumi](https://en.wikipedia.org/wiki/Khumi_language) is a language of Western Burma and Eastern Bangladesh. It uses an orthography based on Burmese, with the addition of three (unencoded) consonants of uncertain sound values and a tonemark. It's also notable that the normal belowbase ုand  ူ are not used, only the postbase forms.
 
 ![Khumi consonants](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/90c5f98e-cdcb-43dc-a8d6-7e32249eafcc)
 
@@ -308,7 +333,7 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 **Southern Pa'O**
 
-A couple of extra characters — a diagonal diacritic below and a triple dot tonemark — need encoding for Southern Pa'O, I'm discussing with Alys Boote-Cooper to get more info.
+As mentioned in the Pa'O section above, a proposal has been submitted for Kham Dom.
 
 ![Southern Pa'O](https://github.com/user-attachments/assets/cc5db0a1-7ef4-42b0-8030-f953682f2f1f)
 
@@ -326,7 +351,7 @@ If using U+0312, we need to make sure sequences like က̒ိ (U+1000 U+0312 U+1
 
 **Tai Sar (Tai Soh, Maingtha)**
 
-Next to no information about this Tai group in Kachin State. They seem to use a reformed/revised version of the Lik Tai script, with many unique letterforms that could be encoded.
+Next to no information about this Tai group in Kachin State. They seem to use a reformed/revised version of the Lik Tai script, with many unique letterforms that could be encoded, though maybe not in the Myanmar ranges.
 
 ![Tai Sar image](https://github.com/ohbendy/Myanmar-font-resources/assets/12471463/6e4b4ea4-37d4-4240-a23d-e474e4b4b83e)
 
