@@ -144,7 +144,7 @@ p27 On the last line, medial La and medial Wa should stack vertically, not overl
 
 **Pali-Sanskrit**
 
-p28 uni1056 ◌ၖ and uni1057 ◌ၗ should probably have dotted circles as they are dependent vowels that join a base consonant just like uni102C ◌ာ. However, it's unclear where the glyphs shown in the Unicode chart for all vocalic characters originated (both independent and dependent forms), and they are unattested in the few Sanskrit manuscripts I have seen. Here are the attestations from three Sanskrit manuscripts, with the first column showing the typeforms I've interpreted or guessed from the unclear handwriting. The top row in each cell is the independent form and the bottom is the dependent form:
+p28 uni1056 ◌ၖ and uni1057 ◌ၗ should probably have dotted circles as they are dependent vowels that join a base consonant just like uni102C ◌ာ. However, it's unclear where the glyphs shown in the Unicode chart for all vocalic characters originated (both independent and dependent forms), and those forms are unattested in the few Sanskrit manuscripts I have seen. Here are the attestations from three Sanskrit manuscripts, with the first column showing the typeforms I've interpreted or guessed from the unclear handwriting. The top row in each cell is the independent form and the bottom is the dependent form:
 
 <img width="3299" height="788" alt="Sanskrit vocalic letters" src="https://github.com/user-attachments/assets/a295d477-96c7-449e-aebc-ed34c1b52872" />
 
