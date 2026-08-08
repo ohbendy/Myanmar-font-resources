@@ -327,6 +327,7 @@ According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language
 **​Kayan or Padaung (ကယန်းဘာသာ) ISO pdu**
 
 [Kayan](https://en.wikipedia.org/wiki/Padaung_language) or Padaung uses a Burmese-script orthography with the addition of two (unencoded) tonemarks. Research ongoing. 
+
 <img width="2010" height="546" alt="Screenshot 2026-08-08 at 17 11 06" src="https://github.com/user-attachments/assets/6ca657f0-725d-4756-9489-80d9f740a227" />
 
 ---
