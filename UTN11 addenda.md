@@ -299,11 +299,11 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 ---
 
 # Additional languages #
-(updated 12 July 2024)
+(updated 8 August 2026)
 
 **Danu (ဓနု) ISO dnv**
 
-According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language) script was invented in 2013–2014 but its use remains controversial. This is unencoded. I am in touch with the script's inventor to work out a Unicode proposal.
+According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language) script was invented in 2013–2014 but its use remains controversial. This is unencoded and likely needs a new Unicode range separate from Myanmar. I am in touch with the script's inventor to work out a Unicode proposal.
 
 ![Danu](https://github.com/user-attachments/assets/c95e1266-00a6-4e7b-95dd-b32c2d498ce4)
 
@@ -312,6 +312,9 @@ According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language
 **Htanaw or Danau (ထနော့) ISO dnu**
 
 [Htanaw/Danau](https://en.wikipedia.org/wiki/Danau_language) uses the standard Burmese character set, though uses some non-Burmese sequences. The orthography is still a work in progress and is documented [here](https://sites.google.com/view/htanawsar/home/htanaw-alphabet-%E1%80%91%E1%80%94%E1%80%A1%E1%80%80%E1%80%81%E1%80%9B%E1%80%99).
+
+<img width="2092" height="813" alt="Htanaw" src="https://github.com/user-attachments/assets/3bdfec08-1cc3-4d96-a8a6-2af9af66acb4" />
+
 
 ---
 
