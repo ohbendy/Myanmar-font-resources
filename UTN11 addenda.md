@@ -1,3 +1,5 @@
+This page builds on Martin Hosken's [UTN11](https://www.unicode.org/notes/tn11/UTN11_4.pdf), essential documentation of how to represent Burmese-script orthographies in Unicode.
+
 ## Version 4 (13/12/2012) ##
 
 ---
