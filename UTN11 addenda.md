@@ -84,7 +84,7 @@ Alternatively it can be looped, here's Futura100 Myanmar:
 
 p46 The language and the people are preferably called Tai Khamti rather than Khamti Shan. 
 
-This is the current (as of 2024) consonant inventory:
+This is the current (as of 2024) consonant inventory, approved by the Tai Khamti Literary and Cultural Association:
 <img width="960" height="1280" alt="01" src="https://github.com/user-attachments/assets/d51f0f9d-342e-4d2e-8554-fabd79364c4f" />
 
 p46 ꩱ uniAA71 is incorrect. Khamti Ga is ꩠ uniAA60.
