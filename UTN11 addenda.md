@@ -347,7 +347,7 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 ---
 
-**Southern Pa'O or Kham Dom ISO**
+**Southern Pa'O or Kham Dom**
 
 As mentioned in the Pa'O section above, a [proposal](https://www.fontpad.co.uk/Documents/Kham_Dom_proposal.pdf) has been submitted for Kham Dom.
 
