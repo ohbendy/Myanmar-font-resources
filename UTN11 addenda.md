@@ -303,7 +303,7 @@ p61 Moken language tag should be mwt as per the SIL website, not mwk.
 
 **Danu (ဓနု) ISO dnv**
 
-According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language) script was invented in 2013–2014 but its use remains controversial. Uncertain whether Danu should be encoded into the existing Burmese ranges or as a unique script, since some of the letters match Burmese, some are very different, and some conflict with Burmese (e.g ဎ = ပ).
+According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language) script was invented in 2013–2014 but its use remains controversial. This is unencoded. I am in touch with the script's inventor to work out a Unicode proposal.
 
 ![Danu](https://github.com/user-attachments/assets/c95e1266-00a6-4e7b-95dd-b32c2d498ce4)
 
@@ -318,6 +318,13 @@ According to Wikipedia, [Danu](https://en.wikipedia.org/wiki/Intha-Danu_language
 **Jingpho (ဈိာင်ဖေါစ်) ISO kac**
 
 [Jingpho](https://en.wikipedia.org/wiki/Jingpho_language) or Kachin has a Latin orthography and a Burmese orthography, which seems to require no special extra characters.
+
+---
+
+**​Kayan or Padaung (ကယန်းဘာသာ) ISO pdu**
+
+[Kayan](https://en.wikipedia.org/wiki/Padaung_language) or Padaung uses a Burmese-script orthography with the addition of two (unencoded) tonemarks. Research ongoing. 
+<img width="2010" height="546" alt="Screenshot 2026-08-08 at 17 11 06" src="https://github.com/user-attachments/assets/6ca657f0-725d-4756-9489-80d9f740a227" />
 
 ---
 
@@ -337,7 +344,7 @@ Letalanyah is an orthography for S'gaw Karen used by Buddhist communities (in co
 
 ---
 
-**Southern Pa'O**
+**Southern Pa'O or Kham Dom ISO**
 
 As mentioned in the Pa'O section above, a proposal has been submitted for Kham Dom.
 
